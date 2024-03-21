@@ -1,4 +1,4 @@
-# App
+# Video client
 
 [Figma mockup](https://www.figma.com/file/RziqZruTTCQ2fZGxfpRO6F/YouTube-client)
 
