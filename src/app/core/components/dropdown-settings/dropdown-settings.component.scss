@@ -1,0 +1,55 @@
+@import 'src/variables';
+
+
+.dropdown-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  background: $main-color;
+  height: 50px;
+
+  span {
+    font-size: 12px;
+    line-height: 14px;
+    color: $secondary-font-color;
+  }
+
+  input {
+    font-family: 'Roboto', sans-serif;
+    border: 0px;
+    outline: unset;
+    height: 14px;
+    font-size: 12px;
+  }
+}
+
+.sort-container {
+  display: flex;
+  gap: 20px;
+
+  .sort-item {
+    display: flex;
+    gap: 4px;
+  }
+
+  .hidden-icon {
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  a {
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 14px;
+    color: $link-color;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  img {
+    display: block;
+  }
+}

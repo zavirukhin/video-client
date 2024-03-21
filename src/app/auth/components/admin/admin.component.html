@@ -1,0 +1,193 @@
+<form [formGroup]="createCardForm" class="form-container">
+  <h2>Create new card</h2>
+  <div class="input-wrapper">
+    <label for="input-title">Title</label>
+    <input
+      (input)="formSubmitted = false"
+      type="text"
+      id="input-title"
+      formControlName="title"
+    >
+    <div
+      *ngIf="formSubmitted && !this.createCardForm.get('title')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('title')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a title
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'minlength'"
+      >
+        The title must be at least 3
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'maxlength'"
+      >
+        The title should be no more than 20
+      </span>
+    </ng-container>
+  </div>
+  <div class="input-wrapper">
+    <label for="input-description">Description</label>
+    <input
+      (input)="formSubmitted = false"
+      type="text"
+      id="input-description"
+      formControlName="description"
+    >
+    <div
+      *ngIf="formSubmitted && !this.createCardForm.get('description')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('description')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'maxlength'"
+      >
+        The description should be no more than 255
+      </span>
+    </ng-container>
+  </div>
+  <div class="input-wrapper">
+    <label for="input-img">Img</label>
+    <input
+      (input)="formSubmitted = false"
+      type="text"
+      id="input-img"
+      formControlName="img"
+    >
+    <div
+      *ngIf="formSubmitted && !this.createCardForm.get('img')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('img')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a img
+      </span>
+    </ng-container>
+  </div>
+  <div class="input-wrapper">
+    <label for="input-link">Link video</label>
+    <input
+      (input)="formSubmitted = false"
+      type="text"
+      id="input-link"
+      formControlName="link"
+    >
+    <div
+      *ngIf="formSubmitted && !this.createCardForm.get('link')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('link')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a link
+      </span>
+    </ng-container>
+  </div>
+  <div formArrayName="tags">
+    <div 
+      class="input-wrapper"
+      *ngFor="let tag of getTags().controls; let i = index"
+    >
+      <label for="input-tag-{{i}}">tag {{ i + 1 }}</label>
+      <input
+        (input)="formSubmitted = false"
+        type="text"
+        id="input-tag-{{i}}"
+        formControlName="{{i}}"
+      >
+      <div
+        *ngIf="formSubmitted && !tag.valid"
+        class="underline-input"
+      ></div>
+      <ng-container
+        *ngIf="formSubmitted"
+        [ngSwitch]="getTagError(tag)"
+      >
+        <span
+          class="error-text"
+          *ngSwitchCase="'required'"
+        >
+          Please enter a tag
+        </span>
+      </ng-container>
+    </div>
+  </div>
+  <div class="input-wrapper">
+    <label for="input-date">Creation date</label>
+    <input
+      (input)="formSubmitted = false"
+      type="date"
+      id="input-date"
+      formControlName="date"
+    >
+    <div
+      *ngIf="formSubmitted && !this.createCardForm.get('date')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('date')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a date
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'DateValidator'"
+      >
+        The date is invalid
+      </span>
+    </ng-container>
+  </div>
+  <app-button
+    type="button"
+    class="button button-add-tag"
+    (click)="addTagForm()"
+  >
+    Add tag
+  </app-button>
+  <div class="button-wrapper">
+    <app-button
+      type="button"
+      (click)="formReset()"
+      class="button"
+    >
+      Clear
+    </app-button>
+    <app-button
+      type="submit"
+      (click)="formHandler()"
+      class="button"
+    >
+      Create card
+    </app-button>
+  </div>
+</form>

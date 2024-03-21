@@ -1,0 +1,22 @@
+<app-button
+  *ngIf="(type === 'search' && prevPageToken) || (type === 'favorite' && currentPage !== 0)"
+  (click)="switchPage(prevPageToken)"
+  (click)="prevPage()"
+  class="button-icon"
+>
+  <img 
+    src="assets/arrow-white-left-icon.svg" 
+    alt="previous page"
+  >
+</app-button>
+<app-button
+  *ngIf="(type === 'search' && nextPageToken) || (type === 'favorite' && maxPage() !== currentPage)"
+  (click)="switchPage(nextPageToken)"
+  (click)="nextPage()"
+  class="button-icon"
+>
+  <img 
+    src="assets/arrow-white-right-icon.svg" 
+    alt="next page"
+  >
+</app-button>

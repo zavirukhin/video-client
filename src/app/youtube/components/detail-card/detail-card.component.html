@@ -1,0 +1,45 @@
+<ng-container
+  *ngIf="(loading$ | async) === false && videos[0] as video"
+>
+  <div class="detail-container">
+    <div class="thumbnail-wrapper">
+      <img [src]="video.thumbnail" [alt]="video.title">
+    </div>
+    <div class="detail-description">
+      <div class="header-description">
+        <h2>{{ video.title }}</h2>
+        <span>{{ getDate(video.publishedAt) }}</span>
+      </div>
+      <ng-container
+        *ngIf="!isFavorite(video.id) && !isCustom()"
+      >
+        <app-button
+          class="button-favorite button-icon"
+          (click)="addFavorite(video.id)"
+        >
+          <img src="assets/liked-white-icon.svg" alt="favorite mark">
+        </app-button>
+      </ng-container>
+      <ng-container
+        *ngIf="isFavorite(video.id) && !isCustom()"
+      >
+        <app-button
+          class="button-favorite button-icon"
+          (click)="removeFavorite(video.id)"
+        >
+          <img src="assets/dislike-white-icon.svg" alt="favorite mark">
+        </app-button>
+      </ng-container>
+      <div class="detail-main">
+        <div class="detail-main-header">Description:</div>
+        <div class="detail-main-description">{{ video.description }}</div>
+      </div>
+    </div>
+  </div>
+</ng-container>
+<ng-container *ngIf="(loading$ | async) === true">
+  Loading...
+</ng-container>
+<ng-container *ngIf="(loading$ | async) === false && videos?.length === 0">
+  <app-not-found></app-not-found>
+</ng-container>

@@ -1,0 +1,31 @@
+<ng-container *ngIf="loginService.isLogin">
+  <h2>You are current authorized in {{ loginService.login }}</h2>
+  <div class="button-wrapper">
+    <app-button
+      class="button"
+      (click)="loginService.logout()"
+    >
+      Logout
+    </app-button>
+    <app-button
+      class="button"
+      (click)="navigateToAdmin()"
+    >
+      Create card
+    </app-button>
+    <app-button
+      class="button"
+      (click)="navigateToFavorite()"
+    >
+      Favorite List
+    </app-button>
+  </div>
+</ng-container>
+<ng-container *ngIf="!loginService.isLogin">
+  <h2>You are not authorized</h2>
+  <app-button
+    (click)="loginService.nagivateToLogin()"
+    class="button">
+    Login
+  </app-button>
+</ng-container>

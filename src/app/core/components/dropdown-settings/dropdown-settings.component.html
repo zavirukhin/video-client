@@ -1,0 +1,38 @@
+<div class="dropdown-container">
+  <span>Sorting by:</span>
+  <div class="sort-container">
+    <div class="sort-item">
+      <a
+        (click)="videoContentService.sortChangeDate()"
+        aria-hidden="true"
+      >
+        date
+      </a>
+      <img
+        [ngClass]="{'hidden-icon': videoContentService.sortBy.date === 0}"
+        [ngStyle]="{'transform': videoContentService.sortBy.date === 1 ? 'rotate(180deg)' : 'rotate(0deg)'}" 
+        src="assets/arrow.svg"
+        alt="arrow sort"
+      >
+    </div>
+    <div class="sort-item">
+      <a
+        (click)="videoContentService.sortChangeViewers()"
+        aria-hidden="true"
+      >
+        count of views
+      </a>
+      <img
+        [ngClass]="{'hidden-icon': videoContentService.sortBy.viewers === 0}"
+        [ngStyle]="{'transform': videoContentService.sortBy.viewers === 1 ? 'rotate(180deg)' : 'rotate(0deg)'}"
+        src="assets/arrow.svg"
+        alt="arrow sort"
+      >
+    </div>
+    <a>by word or sentance</a>
+  </div>
+  <input
+    (keyup)="videoContentService.sortChangeKeywords($event)"
+    type="text"
+  >
+</div>

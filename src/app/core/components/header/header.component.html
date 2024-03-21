@@ -1,0 +1,25 @@
+<header>
+  <div class="search-container">
+    <img src="assets/logo-icon.svg" alt="logo icon">
+    <app-search
+      class="search-input-container"
+    ></app-search>
+    <app-button 
+      (click)="coreService.toggleSetting()" 
+      class="button-icon"
+    >
+      <img src="assets/setting-icon.svg" alt="setting icon">
+    </app-button>
+  </div>
+  <div class="user-container">
+    <span>
+      {{ loginService.isLogin ? loginService.login : 'No Login' }}
+    </span>
+    <app-button
+      (click)="loginService.navigateToProfile()"
+      class="button-icon"
+    >
+      <img src="assets/account-icon.svg" alt="setting icon">
+    </app-button>
+  </div>
+</header>

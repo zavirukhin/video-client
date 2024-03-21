@@ -1,0 +1,93 @@
+<form
+  [formGroup]="loginForm" 
+  class="form-container"
+>
+  <h2>Login</h2>
+  <div class="input-wrapper">
+    <label for="input-login">login</label>
+    <input
+      (input)="formSubmitted = false"
+      type="text"
+      id="input-login"
+      formControlName="login"
+    >
+    <div
+      *ngIf="formSubmitted && !this.loginForm.get('login')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container 
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('login')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a login email
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'email'"
+      >
+        The login email is invalid
+      </span>
+    </ng-container>
+  </div>
+  <div class="input-wrapper">
+    <label for="input-password">password</label>
+    <input
+      (input)="formSubmitted = false"
+      type="password"
+      id="input-password"
+      formControlName="password"
+    >
+    <div
+      *ngIf="formSubmitted && !this.loginForm.get('password')?.valid"
+      class="underline-input"
+    ></div>
+    <ng-container 
+      *ngIf="formSubmitted"
+      [ngSwitch]="getParamError('password')"
+    >
+      <span
+        class="error-text"
+        *ngSwitchCase="'required'"
+      >
+        Please enter a password
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'minlength'"
+      >
+        The password must be at least 8
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'mixin_letter'"
+      >
+        The password must be at mixture of both uppercase and lowercase letters
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'mixin_letter_number'"
+      >
+        The password must be at mixture of both letters and numbers
+      </span>
+      <span
+        class="error-text"
+        *ngSwitchCase="'special_char'"
+      >
+        The password must be contains special char
+      </span>     
+    </ng-container>
+  </div>
+  <div class="button-wrapper">
+    <app-button
+      type="submit"
+      (click)="formHandler()"
+      class="button"
+    >
+      Login
+    </app-button>
+  </div>
+</form>

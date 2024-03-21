@@ -1,0 +1,18 @@
+<ng-container *ngIf="(loading$ | async) === false">
+  <div class="view-container">
+    <app-video-card
+      *ngFor="let video of videos | sort: videoContentService.sortBy"
+      [video]="video"
+    ></app-video-card>
+  </div>
+</ng-container>
+<app-pagination
+  [type]="type"
+  [style.display]="(loading$ | async) === true ? 'none' : ''"
+  (currentPageEvent)="setCurrentPage($event)"
+></app-pagination>
+<ng-container
+  *ngIf="(loading$ | async) === true"
+>
+  Loading...
+</ng-container>

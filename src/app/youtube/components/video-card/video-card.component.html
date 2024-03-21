@@ -1,0 +1,57 @@
+<div class="video-container">
+  <img class="video-thumbnail" [src]="video.thumbnail" [alt]="video.title">
+  <div class="description-container">
+    <div class="statistic-container">
+      <div class="statistic-item">
+        <img src="assets/viewed-icon.svg" alt="viewed count">
+        <span>{{ video.viewCount }}</span>
+      </div>
+      <div class="statistic-item">
+        <img src="assets/liked-icon.svg" alt="liked count">
+        <span>{{ video.likeCount }}</span>
+      </div>
+      <div class="statistic-item">
+        <img src="assets/dislike-icon.svg" alt="dislike count">
+        <span>{{ video.dislikeCount }}</span>
+      </div>
+      <div class="statistic-item">
+        <img src="assets/comments-icon.svg" alt="comment count">
+        <span>{{ video.commentCount }}</span>
+      </div>
+    </div>
+    <h2>{{ video.title }}</h2>
+  </div>
+  <div class="button-container">
+    <app-button
+      (click)="navigateToDetail()" 
+      class="button"
+    >
+      more...
+    </app-button>
+    <ng-container
+      *ngIf="!isFavorite() && !isCustom()"
+    >
+      <app-button
+        class="button-icon"
+        (click)="addFavorite()"
+      >
+        <img src="assets/liked-white-icon.svg" alt="favorite mark">
+      </app-button>
+    </ng-container>
+    <ng-container
+      *ngIf="isFavorite() && !isCustom()"
+    >
+      <app-button
+        class="button-icon"
+        (click)="removeFavorite()"
+      >
+        <img src="assets/dislike-white-icon.svg" alt="favorite mark">
+      </app-button>
+    </ng-container>
+  </div>
+  <div 
+    class="publication-status"
+    [publishedAt]="video.publishedAt"
+    appUnderline
+  ></div>
+</div>

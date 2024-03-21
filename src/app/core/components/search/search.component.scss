@@ -1,0 +1,13 @@
+@import 'src/variables';
+
+input {
+  background: $secondary-color;
+  font-family: 'Roboto', sans-serif;
+  outline: none;
+  flex: 1;
+  height: 24px;
+  font-size: 12px;
+  line-height: 16px;
+  border: 0px;
+  padding: 5px;
+}

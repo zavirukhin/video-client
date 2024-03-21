@@ -1,0 +1,1340 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "wvrHPcq3-3FojoDXiVUQJiFE1lk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "k5hAoJ5edFr2XNYSnbnwaAI1cLo",
+      "id": "yCIti018Srw",
+      "snippet": {
+        "publishedAt": "2022-07-19T17:06:22Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Angular 14 - Быстрый Курс [2022]",
+        "description": "Исходники Angular тут: https://t.me/js_by_vladilen/489\n\nЯ в соц сетях:\nTelegram: https://t.me/js_by_vladilen\nVK: https://vk.com/vladilen.minin\nInstagram: https://instagram.com/vladilen.minin\n\nМои паблики по JavaScript:\nTelegram: https://t.me/result_school_it\nVK: https://vk.com/result.school\nInstagram: https://www.instagram.com/result.school.it\n\nJavaScript cообщества:\nDiscord: https://discord.gg/jscommunity\nTelegram: https://t.me/js_by_vladilen_chat\n\nПолучить профессию Frontend разработчика - \nhttps://bit.ly/3bzTr5X\n\nПодробнее узнать об обучении в Result School - \nhttps://bit.ly/3QTbUKQ \n\nБесплатный курс HTML & CSS - https://bit.ly/3NnFUvs \nСделать 5 проектов на JavaScript - https://bit.ly/3OGfJ47 \n\nRoadmap по каналу:\nhttps://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9\n\nAngular 14 Быстрый курс 2022",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yCIti018Srw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yCIti018Srw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yCIti018Srw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yCIti018Srw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yCIti018Srw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "tags": [
+          "Angular",
+          "Angular 14",
+          "Angular курс",
+          "Angular уроки",
+          "Angular routing",
+          "Angular 14 уроки",
+          "Angular 14 что нового"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular 14 - Быстрый Курс [2022]",
+          "description": "Исходники Angular тут: https://t.me/js_by_vladilen/489\n\nЯ в соц сетях:\nTelegram: https://t.me/js_by_vladilen\nVK: https://vk.com/vladilen.minin\nInstagram: https://instagram.com/vladilen.minin\n\nМои паблики по JavaScript:\nTelegram: https://t.me/result_school_it\nVK: https://vk.com/result.school\nInstagram: https://www.instagram.com/result.school.it\n\nJavaScript cообщества:\nDiscord: https://discord.gg/jscommunity\nTelegram: https://t.me/js_by_vladilen_chat\n\nПолучить профессию Frontend разработчика - \nhttps://bit.ly/3bzTr5X\n\nПодробнее узнать об обучении в Result School - \nhttps://bit.ly/3QTbUKQ \n\nБесплатный курс HTML & CSS - https://bit.ly/3NnFUvs \nСделать 5 проектов на JavaScript - https://bit.ly/3OGfJ47 \n\nRoadmap по каналу:\nhttps://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9\n\nAngular 14 Быстрый курс 2022"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "183559",
+        "likeCount": "5131",
+        "favoriteCount": "0",
+        "commentCount": "364"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kCVvf-NsyameNsmIWouHoK16H78",
+      "id": "Ata9cSC2WpM",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:54:21Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Angular in 100 Seconds",
+        "description": "Angular is arguably the most advanced frontend JavaScript framework ever created. Learn the basics of Angular in 100 Seconds. https://fireship.io/courses/angular/\n\nDocs https://angular.io\n\n#webdev #js #100SecondsOfCode\n\nInstall the quiz app 🤓\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment. \n\nMy VS Code Theme\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ata9cSC2WpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ata9cSC2WpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ata9cSC2WpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ata9cSC2WpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ata9cSC2WpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fireship",
+        "tags": [
+          "webdev",
+          "app development",
+          "angular",
+          "javascript",
+          "js",
+          "angular 2",
+          "typescript",
+          "js framework",
+          "100 seconds of code"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular in 100 Seconds",
+          "description": "Angular is arguably the most advanced frontend JavaScript framework ever created. Learn the basics of Angular in 100 Seconds. https://fireship.io/courses/angular/\n\nDocs https://angular.io\n\n#webdev #js #100SecondsOfCode\n\nInstall the quiz app 🤓\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment. \n\nMy VS Code Theme\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "640514",
+        "likeCount": "19745",
+        "favoriteCount": "0",
+        "commentCount": "537"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KQ5sahGI2t_Cfsial_8HNKLHhjA",
+      "id": "3qBXWUpoPHo",
+      "snippet": {
+        "publishedAt": "2022-09-07T13:15:25Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Angular for Beginners Course [Full Front End Tutorial with TypeScript]",
+        "description": "Learn Angular in this complete course for beginners. First you will learn the basics of Typescript and then you will learn about important Angular concepts such as binding, dependency injection, forms, routing, and more. \n\n✏️ Santosh Yadav created this course. Check out his channel: https://www.youtube.com/c/TechTalksWithSantosh\n🔗 https://twitter.com/SantoshYadavDev\n🔗 https://github.com/sponsors/santoshyadavdev\n\n💻 API Code: https://github.com/santoshyadavdev/hotelapi\n\n⭐️ Course Contents ⭐️\nIntroduction\n⌨️ (0:00:00) Introduction to Angular\n⌨️ (0:09:56) Introduction to Typescript\n⌨️ (0:28:57) SPA and Local Setup\nTypescript\n⌨️ (0:42:09) Typescript Data Types and Functions\n⌨️ (1:25:56) Classes and Interface\n⌨️ (2:11:10) Typescript decorators and tsconfig file\nAngular Installation and Basics\n⌨️ (2:20:24) Angular Installation and Binding Syntax\n⌨️ (3:25:04) Built-in Directives\n⌨️ (4:07:36) Built-in Pipes\n⌨️ (4:30:10) Adding Bootstrap CSS to App\nLifecycle Hook and Component Communication\n⌨️ (4:44:53) ngOnInt and Component Communication using Input and Output\n⌨️ (5:09:32) Change Detection and ngOnChanges\n⌨️ (5:36:51) ngDoCheck\n⌨️ (5:42:01) ViewChild, ViewChildren and AfterViewInit\n⌨️ (6:22:41) Content Projection, AfterContentInit and OnDestroy\nDependency Injection\n⌨️ (6:44:55) Introduction\n⌨️ (7:09:34) Resolution Modifiers\n⌨️ (7:24:06) Value Providers\nHttpClient and RxJs\n⌨️ (7:41:04) Setting Up HttpClientModule\n⌨️ (7:44:07) HttpService , RxJs observables and http get\n⌨️ (8:01:28) RxJs Observable and Observer\n⌨️ (8:11:59) Http Put and Delete\n⌨️ (8:27:10) Http Request\n⌨️ (8:40:55) ShareReplay RxJs Operators\n⌨️ (8:47:17) Async Pipe\n⌨️ (8:57:15) catchError operator\n⌨️ (9:05:29) map operator\n⌨️ (9:09:06) Http Interceptor\n⌨️ (9:29:11) APP_INITIALIZER\nRouting Basics\n⌨️ (9:35:06) Angular Router and default Route\n⌨️ (9:51:01) Adding Angular material and navigation\n⌨️ (10:00:35) Wild card, dynamic route and ActivatedRoute service\n⌨️ (10:23:19) ParamMap and Activate Route Service\nTemplate Driven Forms\n⌨️ (10:25:45) Introduction\n⌨️ (10:50:20) Validation\n⌨️ (11:09:26) Pristine, Dirty State and Reset Form\n⌨️ (11:19:08) Custom Directives and Custom Validation\nAdvanced Routing\n⌨️ (11:49:33) Navigation using Router Service\n⌨️ (11:52:34) Feature and Routing Module\n⌨️ (12:10:57) Nested and Child Route\n⌨️ (12:19:41) Lazy Loading\n⌨️ (12:35:49) Configure Lazy Loading using CLI\n⌨️ (12:42:46) Using ProvidedIn Any\n⌨️ (12:59:15) Router Events\n⌨️ (13:06:00) Listening to Router Events\nRoute Guards\n⌨️ (13:08:49) CanActivate\n⌨️ (13:21:24) CanActivateChild\n⌨️ (13:26:53) CanLoad\nReactive Forms\n⌨️ (13:30:44) Introduction\n⌨️ (13:41:33) Using Material Controls\n⌨️ (13:59:54) Nested Form Controls\n⌨️ (14:17:38) Dynamic Forms\n⌨️ (14:45:09) Built-in Validators\n⌨️ (14:51:50) Reset Form\n⌨️ (14:55:15) Control Level Validation\n⌨️ (15:05:22) SetValue and PatchValue\n⌨️ (15:09:23) ValueChanges and UpdateOn\n⌨️ (15:17:40) map operator with Form\n⌨️ (15:29:55) Custom Validator\nCanDeactivate Guard\n⌨️ (15:57:10) CanDeactivate Guard and Form\nCustom Pipe\n⌨️ (16:15:04) Custom Pipe\nResolve Guard\n⌨️ (16:25:39) Resolve Guard\nGlobal Error Handling\n⌨️ (16:45:46) Error Handling\nTesting Basics\n⌨️ (16:50:08) Introduction\n⌨️ (16:56:59) First test\n⌨️ (17:01:43) Testing Component and Service\nDeployment and CI/CD\n⌨️ (17:15:44) Using Netlify for Deployment\n⌨️ (17:28:06) GitHub Actions to Automate Tasks\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 Raymond Odero\n👾 Agustín Kussrow\n👾 aldo ferretti\n👾 Otis Morgan\n👾 DeezMaster\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qBXWUpoPHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qBXWUpoPHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qBXWUpoPHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qBXWUpoPHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qBXWUpoPHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Angular for Beginners Course [Full Front End Tutorial with TypeScript]",
+          "description": "Learn Angular in this complete course for beginners. First you will learn the basics of Typescript and then you will learn about important Angular concepts such as binding, dependency injection, forms, routing, and more. \n\n✏️ Santosh Yadav created this course. Check out his channel: https://www.youtube.com/c/TechTalksWithSantosh\n🔗 https://twitter.com/SantoshYadavDev\n🔗 https://github.com/sponsors/santoshyadavdev\n\n💻 API Code: https://github.com/santoshyadavdev/hotelapi\n\n⭐️ Course Contents ⭐️\nIntroduction\n⌨️ (0:00:00) Introduction to Angular\n⌨️ (0:09:56) Introduction to Typescript\n⌨️ (0:28:57) SPA and Local Setup\nTypescript\n⌨️ (0:42:09) Typescript Data Types and Functions\n⌨️ (1:25:56) Classes and Interface\n⌨️ (2:11:10) Typescript decorators and tsconfig file\nAngular Installation and Basics\n⌨️ (2:20:24) Angular Installation and Binding Syntax\n⌨️ (3:25:04) Built-in Directives\n⌨️ (4:07:36) Built-in Pipes\n⌨️ (4:30:10) Adding Bootstrap CSS to App\nLifecycle Hook and Component Communication\n⌨️ (4:44:53) ngOnInt and Component Communication using Input and Output\n⌨️ (5:09:32) Change Detection and ngOnChanges\n⌨️ (5:36:51) ngDoCheck\n⌨️ (5:42:01) ViewChild, ViewChildren and AfterViewInit\n⌨️ (6:22:41) Content Projection, AfterContentInit and OnDestroy\nDependency Injection\n⌨️ (6:44:55) Introduction\n⌨️ (7:09:34) Resolution Modifiers\n⌨️ (7:24:06) Value Providers\nHttpClient and RxJs\n⌨️ (7:41:04) Setting Up HttpClientModule\n⌨️ (7:44:07) HttpService , RxJs observables and http get\n⌨️ (8:01:28) RxJs Observable and Observer\n⌨️ (8:11:59) Http Put and Delete\n⌨️ (8:27:10) Http Request\n⌨️ (8:40:55) ShareReplay RxJs Operators\n⌨️ (8:47:17) Async Pipe\n⌨️ (8:57:15) catchError operator\n⌨️ (9:05:29) map operator\n⌨️ (9:09:06) Http Interceptor\n⌨️ (9:29:11) APP_INITIALIZER\nRouting Basics\n⌨️ (9:35:06) Angular Router and default Route\n⌨️ (9:51:01) Adding Angular material and navigation\n⌨️ (10:00:35) Wild card, dynamic route and ActivatedRoute service\n⌨️ (10:23:19) ParamMap and Activate Route Service\nTemplate Driven Forms\n⌨️ (10:25:45) Introduction\n⌨️ (10:50:20) Validation\n⌨️ (11:09:26) Pristine, Dirty State and Reset Form\n⌨️ (11:19:08) Custom Directives and Custom Validation\nAdvanced Routing\n⌨️ (11:49:33) Navigation using Router Service\n⌨️ (11:52:34) Feature and Routing Module\n⌨️ (12:10:57) Nested and Child Route\n⌨️ (12:19:41) Lazy Loading\n⌨️ (12:35:49) Configure Lazy Loading using CLI\n⌨️ (12:42:46) Using ProvidedIn Any\n⌨️ (12:59:15) Router Events\n⌨️ (13:06:00) Listening to Router Events\nRoute Guards\n⌨️ (13:08:49) CanActivate\n⌨️ (13:21:24) CanActivateChild\n⌨️ (13:26:53) CanLoad\nReactive Forms\n⌨️ (13:30:44) Introduction\n⌨️ (13:41:33) Using Material Controls\n⌨️ (13:59:54) Nested Form Controls\n⌨️ (14:17:38) Dynamic Forms\n⌨️ (14:45:09) Built-in Validators\n⌨️ (14:51:50) Reset Form\n⌨️ (14:55:15) Control Level Validation\n⌨️ (15:05:22) SetValue and PatchValue\n⌨️ (15:09:23) ValueChanges and UpdateOn\n⌨️ (15:17:40) map operator with Form\n⌨️ (15:29:55) Custom Validator\nCanDeactivate Guard\n⌨️ (15:57:10) CanDeactivate Guard and Form\nCustom Pipe\n⌨️ (16:15:04) Custom Pipe\nResolve Guard\n⌨️ (16:25:39) Resolve Guard\nGlobal Error Handling\n⌨️ (16:45:46) Error Handling\nTesting Basics\n⌨️ (16:50:08) Introduction\n⌨️ (16:56:59) First test\n⌨️ (17:01:43) Testing Component and Service\nDeployment and CI/CD\n⌨️ (17:15:44) Using Netlify for Deployment\n⌨️ (17:28:06) GitHub Actions to Automate Tasks\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 Raymond Odero\n👾 Agustín Kussrow\n👾 aldo ferretti\n👾 Otis Morgan\n👾 DeezMaster\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1073755",
+        "likeCount": "17292",
+        "favoriteCount": "0",
+        "commentCount": "772"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k_zFj068pOhhAhzrVituIumQexo",
+      "id": "k5E2AVpwsko",
+      "snippet": {
+        "publishedAt": "2017-09-05T16:48:15Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Angular Tutorial for Beginners: Learn Angular & TypeScript",
+        "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. \n🙏 Enjoyed this video? Please vote for me as the Top Programming Guru: https://bit.ly/2G7tf2s\n🔥 Get my complete Angular course (60% OFF - LIMITED TIME): https://bit.ly/367j4nB\n\nThis Angular tutorial teaches you the fundamentals of Angular and TypeScript.\n\nSUBSCRIBE FOR MORE VIDEOS!\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nTABLE OF CONTENT \n\n00:00 Introduction\n02:54 What is Angular?\n04:54 Architecture of Angular Apps\n08:41 Setting Up the Development Environment\n11:25 Your First Angular App\n13:50 Structure of Angular Projects\n20:43 Webpack\n23:57 Angular Version History \n27:31 Course Structure\n31:55 TypeScript Fundamentals\n32:34 What is TypeScript?\n34:58 Your First TypeScript Program\n37:57 Declaring Variables\n42:46 Types\n48:29 Type Assertions\n51:15 Arrow Functions\n52:59 Interfaces\n56:54 Classes\n01:01:22 Objects\n01:05:31 Constructors\n01:08:22 Access Modifiers\n01:11:18 Access Modifiers in Constructor Parameters\n01:12:58 Properties\n01:18:15 Modules\n01:23:22 Angular Fundamentals\n01:23:41 Building Blocks of Angular Apps\n01:27:22 Creating Components\n01:37:00 Generating Components Using Angular CLI\n01:41:40 Templates\n01:44:08 Directives\n01:47:34 Services\n01:52:02 Dependency Injection\n01:59:22 Generating Services Using Angular CLI\n02:01:32 Exercise\n \n\nSTAY IN TOUCH\n\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "tags": [
+          "learn angular 4",
+          "learn angular 4 from scratch",
+          "angular4",
+          "learn angular",
+          "angular tutorial",
+          "angular 4",
+          "Angular",
+          "angular 5",
+          "angular 5 course",
+          "angular course",
+          "angular.js",
+          "angularjs",
+          "angular 2",
+          "angular2",
+          "angular 4 tutorial",
+          "angular 4 tutorial for beginners",
+          "angular tutorial for beginners",
+          "angular 4 crash course",
+          "angularjs 4",
+          "angular js",
+          "angularjs tutorial for beginners",
+          "angular 6",
+          "angular 7",
+          "angular 8",
+          "angular 9",
+          "typescript",
+          "typescript tutorial"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular Tutorial for Beginners: Learn Angular & TypeScript",
+          "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. \n🙏 Enjoyed this video? Please vote for me as the Top Programming Guru: https://bit.ly/2G7tf2s\n🔥 Get my complete Angular course (60% OFF - LIMITED TIME): https://bit.ly/367j4nB\n\nThis Angular tutorial teaches you the fundamentals of Angular and TypeScript.\n\nSUBSCRIBE FOR MORE VIDEOS!\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nTABLE OF CONTENT \n\n00:00 Introduction\n02:54 What is Angular?\n04:54 Architecture of Angular Apps\n08:41 Setting Up the Development Environment\n11:25 Your First Angular App\n13:50 Structure of Angular Projects\n20:43 Webpack\n23:57 Angular Version History \n27:31 Course Structure\n31:55 TypeScript Fundamentals\n32:34 What is TypeScript?\n34:58 Your First TypeScript Program\n37:57 Declaring Variables\n42:46 Types\n48:29 Type Assertions\n51:15 Arrow Functions\n52:59 Interfaces\n56:54 Classes\n01:01:22 Objects\n01:05:31 Constructors\n01:08:22 Access Modifiers\n01:11:18 Access Modifiers in Constructor Parameters\n01:12:58 Properties\n01:18:15 Modules\n01:23:22 Angular Fundamentals\n01:23:41 Building Blocks of Angular Apps\n01:27:22 Creating Components\n01:37:00 Generating Components Using Angular CLI\n01:41:40 Templates\n01:44:08 Directives\n01:47:34 Services\n01:52:02 Dependency Injection\n01:59:22 Generating Services Using Angular CLI\n02:01:32 Exercise\n \n\nSTAY IN TOUCH\n\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "4131150",
+        "likeCount": "59890",
+        "favoriteCount": "0",
+        "commentCount": "2272"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "slQUy-soWIUsXVmXHUhlLZ3wOzM",
+      "id": "fX5T2CGSwns",
+      "snippet": {
+        "publishedAt": "2023-11-11T02:02:52Z",
+        "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+        "title": "This New Angular Release Is Wild",
+        "description": "Oh no, I'm talking about Angular again.\n\nSeriously tho, this is dope and I'm hyped for the Angular community\n\nAnnouncement: https://blog.angular.io/announcing-angular-dev-1e1205fa3039\nAngular site: https://angular.dev\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O Ph4se0n3 for the awesome edit 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fX5T2CGSwns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fX5T2CGSwns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fX5T2CGSwns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fX5T2CGSwns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fX5T2CGSwns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Theo - t3․gg",
+        "tags": [
+          "web development",
+          "full stack",
+          "typescript",
+          "javascript",
+          "react",
+          "programming",
+          "programmer",
+          "theo",
+          "t3 stack",
+          "t3",
+          "t3.gg",
+          "t3dotgg"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "This New Angular Release Is Wild",
+          "description": "Oh no, I'm talking about Angular again.\n\nSeriously tho, this is dope and I'm hyped for the Angular community\n\nAnnouncement: https://blog.angular.io/announcing-angular-dev-1e1205fa3039\nAngular site: https://angular.dev\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O Ph4se0n3 for the awesome edit 🙏"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "85409",
+        "likeCount": "2637",
+        "favoriteCount": "0",
+        "commentCount": "297"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "J9Bptshyy3nqizlq6TDPi0L-tM8",
+      "id": "3dHNOWTI7H8",
+      "snippet": {
+        "publishedAt": "2021-05-06T15:40:03Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Angular Crash Course",
+        "description": "Learn the fundamentals of Angular in this project-based crash course\n\nVideo Sponsor:\nhttps://www.hostinger.com/traversymedia\n- Use the code TRAVERSYMEDIA for 10% off!\n\nCode:\nhttps://github.com/bradtraversy/angular-crash-2021\n\nLatest Udemy Courses:\nhttps://traversymedia.com\u200b\n\n💖  Support The Channel!\nhttp://www.patreon.com/traversymedia\n\nTimestamps:\n0:00 - Hostinger Sponsor\n0:35 - Intro & Slides\n7:41 - Angular CLI & Setup\n10:39 - Files & Folders\n14:49 - Component structure\n16:42 - Properties & Interpolation\n18:40 - Global Styles\n19:20 - Header Component\n23:15 - Button Component\n24:36 - Component Input Data\n22:19 - Creating an event & event emitter output\n30:51 - Mock Tasks & Task Interface\n34:10 - Tasks Component\n36:03 - Looping with ngFor\n37:16 - Task Item Component\n40:13 - Angular Font Awesome Setup\n44:39 - Create a Task Service\n49:06 - Creating and Subscribe to Observable\n50:04 - JSON-Server Setup\n57:29 - Angular HTTP Client\n59:48 - Fetching Tasks\n1:02:59 - Deleting Tasks\n1:12:54 - Toggle Reminder\n1:20:29 - Add Task Component\n1:26:26 - Forms Module & ngModel\n1:29:00 - Submit & Create Task\n1:37:02 - Toggle Button & UI Service\n1:51:38 - Angular Router\n1:57:34 - Limit Component to Route",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3dHNOWTI7H8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "tags": [
+          "angular",
+          "angular crash course",
+          "angular traversy",
+          "traversymedia",
+          "angular tutorial",
+          "javascript framework"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular Crash Course",
+          "description": "Learn the fundamentals of Angular in this project-based crash course\n\nVideo Sponsor:\nhttps://www.hostinger.com/traversymedia\n- Use the code TRAVERSYMEDIA for 10% off!\n\nCode:\nhttps://github.com/bradtraversy/angular-crash-2021\n\nLatest Udemy Courses:\nhttps://traversymedia.com\u200b\n\n💖  Support The Channel!\nhttp://www.patreon.com/traversymedia\n\nTimestamps:\n0:00 - Hostinger Sponsor\n0:35 - Intro & Slides\n7:41 - Angular CLI & Setup\n10:39 - Files & Folders\n14:49 - Component structure\n16:42 - Properties & Interpolation\n18:40 - Global Styles\n19:20 - Header Component\n23:15 - Button Component\n24:36 - Component Input Data\n22:19 - Creating an event & event emitter output\n30:51 - Mock Tasks & Task Interface\n34:10 - Tasks Component\n36:03 - Looping with ngFor\n37:16 - Task Item Component\n40:13 - Angular Font Awesome Setup\n44:39 - Create a Task Service\n49:06 - Creating and Subscribe to Observable\n50:04 - JSON-Server Setup\n57:29 - Angular HTTP Client\n59:48 - Fetching Tasks\n1:02:59 - Deleting Tasks\n1:12:54 - Toggle Reminder\n1:20:29 - Add Task Component\n1:26:26 - Forms Module & ngModel\n1:29:00 - Submit & Create Task\n1:37:02 - Toggle Button & UI Service\n1:51:38 - Angular Router\n1:57:34 - Limit Component to Route"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1330750",
+        "likeCount": "20992",
+        "favoriteCount": "0",
+        "commentCount": "1384"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U9-5-KH8qbQD9LvXrAYrur72vmg",
+      "id": "G0bBLvWXBvc",
+      "snippet": {
+        "publishedAt": "2019-09-16T16:53:41Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Angular for Beginners - Let's build a Tic-Tac-Toe PWA",
+        "description": "Learn the basics of Angular 8 🚀 by building a tic-tac-toe game 🕹️ from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the basics 👉https://fireship.io/courses/angular/\n\nFull Source Code: https://github.com/fireship-io/angular-tic-tac-toe\nAngular Docs: https://angular.io/\n\n#angular #pwa #tutorial\n\nTake Angular quizzes 🤓\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fireship",
+        "tags": [
+          "webdev",
+          "app development",
+          "lesson",
+          "tutorial",
+          "beginners",
+          "beginner",
+          "basic",
+          "angular tutorial",
+          "angular basics",
+          "angular for beginners",
+          "angular 8",
+          "angular components",
+          "learn angular"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular for Beginners - Let's build a Tic-Tac-Toe PWA",
+          "description": "Learn the basics of Angular 8 🚀 by building a tic-tac-toe game 🕹️ from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the basics 👉https://fireship.io/courses/angular/\n\nFull Source Code: https://github.com/fireship-io/angular-tic-tac-toe\nAngular Docs: https://angular.io/\n\n#angular #pwa #tutorial\n\nTake Angular quizzes 🤓\n\niOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8\nAndroid https://play.google.com/store/apps/details?id=io.fireship.quizapp\n\nUpgrade to Fireship PRO at https://fireship.io/pro\nUse code lORhwXd2 for 25% off your first payment."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "433696",
+        "likeCount": "11040",
+        "favoriteCount": "0",
+        "commentCount": "446"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VLUy52-v2E0OMQKSXcA0ANxm6-M",
+      "id": "RoXVw0WiAEM",
+      "snippet": {
+        "publishedAt": "2022-08-13T15:17:23Z",
+        "channelId": "UCdpPBwKPriPIP2eyP9a1C6g",
+        "title": "🏎 Angular с нуля за 5 часов! Angular 14 для начинающих [TypeScript / Rx.js / Tailwind] - RED Test",
+        "description": "🔥 Лютейшая подписка - https://htmllessons.ru/premium?utm_source=youtube&utm_medium=red-group&utm_campaign=description&utm_content=angular-red-test\n► Как купить из других стран - https://t.me/redgroupchannel/37\n💸 Поддержать - https://www.donationalerts.com/r/redgroup\n\n► 🎁 ТГ канал (прямо сейчас розыгрыш) - https://t.me/redgroupchannel\n⚡️Закрытый клуб \"5 утра\" - https://htmllessons.ru/ext/club\n\n⚡️ Список интенсивов по подписке - https://htmllessons.ru/list-intensives?utm_source=youtube&utm_medium=red-group&utm_campaign=description&utm_content=angular-red-test\n\n🧪 Исходник (требуется подписка) - https://htmllessons.ru/repositories#storage_file_57\n\nНадеюсь Вы оцените мои старания, с Вас лайк и подписка. \n\nЕсли есть какие-то фишки по этой теме - дай знать в 💬 комментариях!\n\n#Angular #TypeScript #RedGroup \n\nНовая рубрика на канале - RED Test! Я получаю большое количество сообщений \"сделай видео с X технологией\", к сожалению я один и не могу все охватить. Но мне как и Вам интересно попробовать что-то новое, поэтому я решил запустить данную рубрику, где мы будем пробовать новую технологию в рамках одного стрима. В этом выпуске мы разберем Angular с нуля за 5 часов. Это будет Angular 14 уроки для начинающих. Кроме Angular разберем TypeScript, Rx.js, tailwind. Параллельно будем сравнивать с React и Vue.\n\nТайм коды:\n00:00:00 - Начало\n00:18:10 - Установка Angular\n00:33:50 - Выбираем дизайн\n00:45:20 - Рассматриваем структуру проекта\n00:56:40 - Настройка prettier\n00:59:00 - Установка tailwind css\n01:04:40 - Советчики в чате (можно пропустить)\n01:41:22 - Layout\n01:46:00 - Header и меню\n02:16:00 - Пишем стили для меню\n02:33:00 - Генерируем все сущности\n02:40:00 - Дописываем роутинг\n02:51:00 - Создаем свой базовый сервер\n02:58:00 - Ищем изображения еды\n03:04:00 - Первые запросы на сервер\n03:25:50 - Очень долго мучаемся с ngFor\n03:39:00 - Решили проблему вывода с помощью ngFor\n03:43:00 - Компонент продукта\n03:55:00 - Стили для каталога\n04:11:00 - Реализация поиска\n04:51:30 - Реализация фильтров\n05:04:45 - ДЕМО\n05:13:40 - Дальнейшие планы\n\n👉  Все ссылки (+ настройка редактора) и информация обо мне - https://redlinks.space/\n\nСмотрите видео ДО КОНЦА, подписывайтесь на канал, ставьте 👍 и колокольчик 🔔",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RoXVw0WiAEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RoXVw0WiAEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RoXVw0WiAEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RoXVw0WiAEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RoXVw0WiAEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RED Group",
+        "tags": [
+          "angular 14 для начинающих",
+          "angular 14 js",
+          "angular 14 за час",
+          "angular 14 уроки",
+          "angular ts",
+          "angular за час",
+          "angular 14",
+          "angular",
+          "angular с нуля",
+          "angular typescript",
+          "red group",
+          "angular полный курс",
+          "javascript",
+          "js",
+          "typescript",
+          "angularjs",
+          "веб разработка",
+          "Angular JS",
+          "angular уроки",
+          "angular js",
+          "уроки angular",
+          "angular js для начинающих",
+          "уроки angular js",
+          "tailwind",
+          "front-end",
+          "стрим",
+          "red test",
+          "react vs angular",
+          "angular tailwind",
+          "angular для начинающих",
+          "angular js курс",
+          "Angular js уроки"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "🏎 Angular с нуля за 5 часов! Angular 14 для начинающих [TypeScript / Rx.js / Tailwind] - RED Test",
+          "description": "🔥 Лютейшая подписка - https://htmllessons.ru/premium?utm_source=youtube&utm_medium=red-group&utm_campaign=description&utm_content=angular-red-test\n► Как купить из других стран - https://t.me/redgroupchannel/37\n💸 Поддержать - https://www.donationalerts.com/r/redgroup\n\n► 🎁 ТГ канал (прямо сейчас розыгрыш) - https://t.me/redgroupchannel\n⚡️Закрытый клуб \"5 утра\" - https://htmllessons.ru/ext/club\n\n⚡️ Список интенсивов по подписке - https://htmllessons.ru/list-intensives?utm_source=youtube&utm_medium=red-group&utm_campaign=description&utm_content=angular-red-test\n\n🧪 Исходник (требуется подписка) - https://htmllessons.ru/repositories#storage_file_57\n\nНадеюсь Вы оцените мои старания, с Вас лайк и подписка. \n\nЕсли есть какие-то фишки по этой теме - дай знать в 💬 комментариях!\n\n#Angular #TypeScript #RedGroup \n\nНовая рубрика на канале - RED Test! Я получаю большое количество сообщений \"сделай видео с X технологией\", к сожалению я один и не могу все охватить. Но мне как и Вам интересно попробовать что-то новое, поэтому я решил запустить данную рубрику, где мы будем пробовать новую технологию в рамках одного стрима. В этом выпуске мы разберем Angular с нуля за 5 часов. Это будет Angular 14 уроки для начинающих. Кроме Angular разберем TypeScript, Rx.js, tailwind. Параллельно будем сравнивать с React и Vue.\n\nТайм коды:\n00:00:00 - Начало\n00:18:10 - Установка Angular\n00:33:50 - Выбираем дизайн\n00:45:20 - Рассматриваем структуру проекта\n00:56:40 - Настройка prettier\n00:59:00 - Установка tailwind css\n01:04:40 - Советчики в чате (можно пропустить)\n01:41:22 - Layout\n01:46:00 - Header и меню\n02:16:00 - Пишем стили для меню\n02:33:00 - Генерируем все сущности\n02:40:00 - Дописываем роутинг\n02:51:00 - Создаем свой базовый сервер\n02:58:00 - Ищем изображения еды\n03:04:00 - Первые запросы на сервер\n03:25:50 - Очень долго мучаемся с ngFor\n03:39:00 - Решили проблему вывода с помощью ngFor\n03:43:00 - Компонент продукта\n03:55:00 - Стили для каталога\n04:11:00 - Реализация поиска\n04:51:30 - Реализация фильтров\n05:04:45 - ДЕМО\n05:13:40 - Дальнейшие планы\n\n👉  Все ссылки (+ настройка редактора) и информация обо мне - https://redlinks.space/\n\nСмотрите видео ДО КОНЦА, подписывайтесь на канал, ставьте 👍 и колокольчик 🔔"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "26819",
+        "likeCount": "981",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t-f7PKM1zN4qqun0IojIYbxdBQE",
+      "id": "Pr2njFPJEx8",
+      "snippet": {
+        "publishedAt": "2023-12-02T06:30:52Z",
+        "channelId": "UCdCOpvRk1lsBk26ePGDPLpQ",
+        "title": "Angular Assembly Amplified by AI with Jeff Whelpley",
+        "description": "In this episode of Angular Air, Alyssa, Justin, and Mike are joined by their old Angular Air host, Jeff Whelpley, to talk about Angular Assembly and how it can be amplified with AI.\r\n\r\nJeff’s X Handle: https://twitter.com/jeffwhelpley\r\n\r\n🎈Angular Air is sponsored by Kendo UI, check out their 100+ components today! kendoui.com\r\n\r\nTo catch up with our panelists off air, follow them online:\r\n💜 ALYSSA:  https://twitter.com/alyssanicoll  \r\n💙 JUSTIN: https://twitter.com/schwarty  \r\n🧡 MIKE:  https://twitter.com/brocco",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pr2njFPJEx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pr2njFPJEx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pr2njFPJEx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pr2njFPJEx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pr2njFPJEx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AngularAir",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Angular Assembly Amplified by AI with Jeff Whelpley",
+          "description": "In this episode of Angular Air, Alyssa, Justin, and Mike are joined by their old Angular Air host, Jeff Whelpley, to talk about Angular Assembly and how it can be amplified with AI.\r\n\r\nJeff’s X Handle: https://twitter.com/jeffwhelpley\r\n\r\n🎈Angular Air is sponsored by Kendo UI, check out their 100+ components today! kendoui.com\r\n\r\nTo catch up with our panelists off air, follow them online:\r\n💜 ALYSSA:  https://twitter.com/alyssanicoll  \r\n💙 JUSTIN: https://twitter.com/schwarty  \r\n🧡 MIKE:  https://twitter.com/brocco"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "271",
+        "likeCount": "17",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7uxSN-NeGlEH53meVu62xFKgYkE",
+      "id": "JWhRMyyF7nc",
+      "snippet": {
+        "publishedAt": "2023-08-30T15:00:08Z",
+        "channelId": "UC8lxnUR_CzruT2KA6cb7p0Q",
+        "title": "Learn Angular A-Z: Complete Tutorial for Beginners",
+        "description": "It's not an exaggeration to say Angular changed the way we build web applications. Learn the A to Z of Angular in this comprehensive four-hour video course. ► Download unlimited photos, fonts, and templates with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\nAngular is a larger framework than React or Vue, providing more features and built-in capabilities out of the box. But that makes it a bit more difficult to get started.\n\nIn this course, you’ll learn everything you need to get started writing applications with Angular. We’ll start at the very beginning: you’ll install the Angular command-line tools, and we’ll create a new project together.\n\nYou’ll learn how to display data with Angular’s directives and templating syntax, as well as binding data to properties, attributes, and handling events. We’ll then dive into components, and you’ll learn how to create components that accept input and provide output. You’ll also learn how to set up two-way binding and manipulate styles within your components.\n\nLater, we’ll look at some of the services and concepts that Angular uses, such as dependency injection, modules, and observables. You’ll learn how to create and use modules to organize your application, handle and validate form input with reactive forms, and build single-page applications with Angular’s router. Here's the course structure:\n\n1. Introduction\n00:00:00 1.1 Introduction\n2. Getting Started\n00:01:52 2.1 Installing and Using the Angular CLI\n00:15:22 2.2 Creating a Data Model\n00:22:46 2.3 Iterating Arrays\n00:30:13 2.4 Making Decisions\n00:41:46 2.5 Binding Data to Properties and Attributes\n00:47:54 2.6 Binding Events\n00:54:58 2.7 Using ngModel to Bind Values to Form Controls\n01:05:02 2.8 Listening for Changes to ngModel Values\n01:12:43 2.9 Using Getters to Filter and Provide Data\n3. Creating Custom Components\n01:18:14 3.1 Creating a Component With Input\n01:27:24 3.2 Outputing Information From a Component\n01:33:17 3.3 Initializing Component Functionality\n01:41:02 3.4 Setting Up Two-Way Binding\n01:48:33 3.5 Practicing Two-Way Binding\n01:55:30 3.6 Styling Components\n4. Using Angular's Services\n02:01:29 4.1 Using Observables to Create an Event Bus\n02:15:30 4.2 Refactoring the WishListItem Component\n02:19:24 4.3 Injecting Dependencies\n02:26:17 4.4 Issuing HTTP Requests\n02:36:05 4.5 Providing Options for HTTP Requests\n02:43:30 4.6 Handling Errors for HTTP Requests\n5. Using Modules\n02:51:42 5.1 Creating Modules\n03:01:19 5.2 Exporting Single Components\n6. Working With Reactive Forms\n03:06:02 6.1 Introducing Reactive Forms\n03:14:39 6.2 Creating Control Groups\n03:20:02 6.3 Validating Reactive Forms\n03:33:05 6.4 Writing Custom Validators\n7. Using Angular's Router\n03:42:31 7.1 Defining Routes\n03:50:49 7.2 Handling \"Not Found\" Pages\n03:56:19 7.3 Navigating to Routes\n04:03:28 7.4 Providing Data to Routes\n04:10:17 7.5 Using Route Parameters\n8. Conclusion\n04:20:05 8.1 Conclusion\n\nUseful Links:\n• Course Source Files: https://github.com/jwmcpeak/Angular-Fundamentals\n• Angular: https://angular.io/\n• Node.js: https://nodejs.org/\n• Visual Studio Code: https://code.visualstudio.com/\n\nWe have a lot to cover, so let’s get started!\n\nRead free Angular tutorials on Envato Tuts+: https://code.tutsplus.com/categories/angular?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nEnvato Tuts+\nDiscover free how-to tutorials and online courses. Design a logo, create a website, build an app, or learn a new skill: https://tutsplus.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\nEnvato Elements\nAll the creative assets you need under one subscription. Customize your project by adding unique photos, fonts, graphics, and themes.\n► Download Unlimited Stock Photos, Fonts & Templates with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\n► Subscribe to Envato Tuts+ on YouTube: https://www.youtube.com/tutsplus\n► Follow Envato Tuts+ on Twitter: https://twitter.com/envato\n► Follow Envato on Facebook: https://www.facebook.com/envato\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWhRMyyF7nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWhRMyyF7nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWhRMyyF7nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JWhRMyyF7nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JWhRMyyF7nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Envato Tuts+",
+        "tags": [
+          "angular tutorial",
+          "angular tutorial for beginners",
+          "angular",
+          "learn angular",
+          "angular crash course",
+          "angular for beginners",
+          "angular course",
+          "angular full course",
+          "angular training",
+          "angular basics",
+          "angularjs"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learn Angular A-Z: Complete Tutorial for Beginners",
+          "description": "It's not an exaggeration to say Angular changed the way we build web applications. Learn the A to Z of Angular in this comprehensive four-hour video course. ► Download unlimited photos, fonts, and templates with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\nAngular is a larger framework than React or Vue, providing more features and built-in capabilities out of the box. But that makes it a bit more difficult to get started.\n\nIn this course, you’ll learn everything you need to get started writing applications with Angular. We’ll start at the very beginning: you’ll install the Angular command-line tools, and we’ll create a new project together.\n\nYou’ll learn how to display data with Angular’s directives and templating syntax, as well as binding data to properties, attributes, and handling events. We’ll then dive into components, and you’ll learn how to create components that accept input and provide output. You’ll also learn how to set up two-way binding and manipulate styles within your components.\n\nLater, we’ll look at some of the services and concepts that Angular uses, such as dependency injection, modules, and observables. You’ll learn how to create and use modules to organize your application, handle and validate form input with reactive forms, and build single-page applications with Angular’s router. Here's the course structure:\n\n1. Introduction\n00:00:00 1.1 Introduction\n2. Getting Started\n00:01:52 2.1 Installing and Using the Angular CLI\n00:15:22 2.2 Creating a Data Model\n00:22:46 2.3 Iterating Arrays\n00:30:13 2.4 Making Decisions\n00:41:46 2.5 Binding Data to Properties and Attributes\n00:47:54 2.6 Binding Events\n00:54:58 2.7 Using ngModel to Bind Values to Form Controls\n01:05:02 2.8 Listening for Changes to ngModel Values\n01:12:43 2.9 Using Getters to Filter and Provide Data\n3. Creating Custom Components\n01:18:14 3.1 Creating a Component With Input\n01:27:24 3.2 Outputing Information From a Component\n01:33:17 3.3 Initializing Component Functionality\n01:41:02 3.4 Setting Up Two-Way Binding\n01:48:33 3.5 Practicing Two-Way Binding\n01:55:30 3.6 Styling Components\n4. Using Angular's Services\n02:01:29 4.1 Using Observables to Create an Event Bus\n02:15:30 4.2 Refactoring the WishListItem Component\n02:19:24 4.3 Injecting Dependencies\n02:26:17 4.4 Issuing HTTP Requests\n02:36:05 4.5 Providing Options for HTTP Requests\n02:43:30 4.6 Handling Errors for HTTP Requests\n5. Using Modules\n02:51:42 5.1 Creating Modules\n03:01:19 5.2 Exporting Single Components\n6. Working With Reactive Forms\n03:06:02 6.1 Introducing Reactive Forms\n03:14:39 6.2 Creating Control Groups\n03:20:02 6.3 Validating Reactive Forms\n03:33:05 6.4 Writing Custom Validators\n7. Using Angular's Router\n03:42:31 7.1 Defining Routes\n03:50:49 7.2 Handling \"Not Found\" Pages\n03:56:19 7.3 Navigating to Routes\n04:03:28 7.4 Providing Data to Routes\n04:10:17 7.5 Using Route Parameters\n8. Conclusion\n04:20:05 8.1 Conclusion\n\nUseful Links:\n• Course Source Files: https://github.com/jwmcpeak/Angular-Fundamentals\n• Angular: https://angular.io/\n• Node.js: https://nodejs.org/\n• Visual Studio Code: https://code.visualstudio.com/\n\nWe have a lot to cover, so let’s get started!\n\nRead free Angular tutorials on Envato Tuts+: https://code.tutsplus.com/categories/angular?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nEnvato Tuts+\nDiscover free how-to tutorials and online courses. Design a logo, create a website, build an app, or learn a new skill: https://tutsplus.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\nEnvato Elements\nAll the creative assets you need under one subscription. Customize your project by adding unique photos, fonts, graphics, and themes.\n► Download Unlimited Stock Photos, Fonts & Templates with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_JWhRMyyF7nc&utm_medium=referral&utm_source=youtube.com&utm_content=description\n\n► Subscribe to Envato Tuts+ on YouTube: https://www.youtube.com/tutsplus\n► Follow Envato Tuts+ on Twitter: https://twitter.com/envato\n► Follow Envato on Facebook: https://www.facebook.com/envato\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "37813",
+        "likeCount": "1121",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GgaCWXSKb-OpOXBtNPNhl_6o2LU",
+      "id": "p_TEBFDsNuc",
+      "snippet": {
+        "publishedAt": "2023-11-07T11:00:47Z",
+        "channelId": "UCbVZdLngJH6KOJvpAOO3qTw",
+        "title": "Introducing... the NEW Angular framework",
+        "description": "My new Angular course: https://angularstart.com/ \n\nThe Angular team have been hinting and teasing at an upcoming announcement for Angular, and it's finally here!\n\nWe already have a ton of new features like signals and standalone components, with many more to come including signal based components with massive improvements to change detection. To match this new age of Angular, the team have re-branded with a new site, new docs, and a fancy new logo!\n\nMore on the state management approach: https://www.youtube.com/watch?v=R4Ff2bPiWh4\n\n0:00 Introduction\n1:24 Standalone components\n2:16 Folder structure\n2:45 Routing\n3:08 Modern features\n3:36 Control flow\n3:49 Inputs and outputs\n4:33 Signals\n5:30 RxJS\n6:20 Angular Start\n7:24 State management\n8:16 Is Angular \"back\"?\n\nGet weekly content and tips exclusive to my newsletter: https://mobirony.ck.page/4a331b9076 \n\n#angular #renaissance #signals",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p_TEBFDsNuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p_TEBFDsNuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p_TEBFDsNuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p_TEBFDsNuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p_TEBFDsNuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Joshua Morony",
+        "tags": [
+          "ionic",
+          "tutorial",
+          "tutorials",
+          "ionic tutorials",
+          "ionic framework",
+          "coding",
+          "coding tutorials",
+          "angular",
+          "angular tutorials",
+          "capacitor tutorials",
+          "mobile",
+          "mobile apps",
+          "apps",
+          "html5",
+          "ios",
+          "android",
+          "native",
+          "hybrid",
+          "pwa",
+          "web apps",
+          "progressive web applications",
+          "programming",
+          "stenciljs",
+          "stencil",
+          "performance",
+          "ui",
+          "ux",
+          "animations",
+          "screencast",
+          "rxjs",
+          "nx",
+          "ngrx",
+          "architecture"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Introducing... the NEW Angular framework",
+          "description": "My new Angular course: https://angularstart.com/ \n\nThe Angular team have been hinting and teasing at an upcoming announcement for Angular, and it's finally here!\n\nWe already have a ton of new features like signals and standalone components, with many more to come including signal based components with massive improvements to change detection. To match this new age of Angular, the team have re-branded with a new site, new docs, and a fancy new logo!\n\nMore on the state management approach: https://www.youtube.com/watch?v=R4Ff2bPiWh4\n\n0:00 Introduction\n1:24 Standalone components\n2:16 Folder structure\n2:45 Routing\n3:08 Modern features\n3:36 Control flow\n3:49 Inputs and outputs\n4:33 Signals\n5:30 RxJS\n6:20 Angular Start\n7:24 State management\n8:16 Is Angular \"back\"?\n\nGet weekly content and tips exclusive to my newsletter: https://mobirony.ck.page/4a331b9076 \n\n#angular #renaissance #signals"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "65061",
+        "likeCount": "2593",
+        "favoriteCount": "0",
+        "commentCount": "219"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-1_b9quQB0Q4dVOUgtJfXFo1Lss",
+      "id": "CGLdH5ORX-Y",
+      "snippet": {
+        "publishedAt": "2022-11-29T19:22:11Z",
+        "channelId": "UCVO85fbcuI-726-aNVErDmA",
+        "title": "Angular Full Course - Complete Zero to Hero Angular full Tutorial",
+        "description": "5 Angular Applications from Scratch | 10 Hours -  https://youtu.be/EuJsvyFz2kA\nAngular Real-World Client Project from Scratch 120+ Hours- https://youtu.be/yyd2uPM_5CE\nAngular Full Course - Complete Zero to Hero Angular full Tutorial- 90% off join now - https://bit.ly/90offangulafullcourse\nSource Code - https://bit.ly/47luSkP\nAngular Data Table - https://youtu.be/5c_678HRutQ\n\nwe learn about Angular A to z from scratch, so this is an Angular Full course where you can learn Angular Javascript framework top to bottom.\n\nJavascript Full Course -  https://youtu.be/6rhmk9pEN0s\nPart II Angular Full Course - https://youtu.be/6zv1PTuqIIc (Learn to build a Full Angular App)\nAngular 15 With @angular/fire 7 (Full CRUD) - https://youtu.be/HXSqKW4JCr4\nTailwind CSS 3 Course 2023 - https://youtu.be/dqz1hb40_Q4\n\n00:00:00 Course Introduction\n00:01:42 Angular & Angular CLI\n00:02:12 What is Angular?\n00:07:21 What is Single Page Application?\n00:09:27 What is Angular CLI?\n00:10:34 Angular CLI Setup\n00:12:30 First Angular App \n00:15:21 Angular File Structure Part I\n00:20:07 Angular File Structure Part II\n00:21:46 Angular File Structure Part III\n00:24:57 End Section Angular & Angular CLI \n00:25:33 Intro Angular Components\n00:26:06 What is Angular Component\n00:31:27 Create an Angular Component\n00:40:51 How Loads Components Inside the Browser\n00:44:24 Templates & Styles Component Properties\n00:49:42 Better Approach for Templates & Styles\n00:55:17 Generate Angular Components using Angular CLI\n01:00:06 NgOnInit() Lifecycle Hook\n01:02:11 Data Binding\n01:05:43 Sharing Data Between Components\n01:07:55 Parent Child Relationship\n01:11:04 @Input Decorator\n01:15:27 Task\n01:16:51 Solution\n01:21:17 @ViewChild Decorator\n01:29:11 @Output & Event Emitter\n01:37:47 End Section Component\n01:38:43 Section Intro Display Data & Event Handling\n01:39:06 String Interpolation\n01:43:53 Property Binding\n01:47:30 Class Binding\n01:50:17 Style Binding\n01:55:49 Event Binding\n02:00:46 Event Filtering\n02:07:15 Template Variable\n02:10:25 Two-Way Data Binding\n02:14:54 One-Way Vs Two-Way Data Binding\n02:21:19 Task\n02:23:37 Solution I\n02:29:10 Solution II\n02:37:01 End Section Data Binding\n02:37:53 Section Intro Directives\n02:38:32 What is Angular Directive?\n02:40:44 NgFor Directive\n02:47:22 Fetch Object Array\n02:53:03 Angular Change Detection\n02:58:18 Usage of Array Index\n03:01:11 NgIf Directive\n03:06:06 NgTemplate Directive\n03:10:29 NgSwitchCase Directive\n03:17:40 NgStyle Directive\n03:22:11 NgClass Directive\n03:25:26 Structural Directive VS Attribute Directives\n03:29:40 Task\n03:31:11 Solution I\n03:43:56 Section Intro Pipes\n03:44:21 What is Angular Pipes & types of Pipes\n03:45:30 Uppercase Lowercase Pipes\n03:47:45 Number Pipes\n03:51:40 Currency Pipes\n03:55:22 Date Pipes\n03:57:35 JSON Pipe\n03:59:21 Percent Pipe\n04:00:37 Slice Pipe\n04:02:51 Custom Pipe I\n04:11:03 Create Custom Pipe Using Angular CLI\n04:13:08 Custom Pipes With Arguments\n04:17:13 Section Intro - Angular Services\n04:17:46 What is Angular Service\n04:20:13 Create Angular Service Manual\n04:22:25 Dependency Injection\n04:28:42 DI Providers and Injectable Decorator\n04:35:55 Generate Angular Service Using Angular CLI\n04:37:46 Usage of Angular Service\n04:41:29 Angular Interface\n04:49:27 Section Intro - Template Driven Forms\n04:49:59 Angular Forms Types\n04:51:50 Creating Bootstrap Forms\n04:56:53 NgForm Directive\n05:01:43 NgForm & Form Group Class\n05:05:27 NgModel & FormControl Class\n05:09:45 Form Validation\n05:16:47 Styling Invalid Inputs\n05:19:53 Form Validation Types\n05:22:22 Validating Email Input Field\n05:25:18 Validating Text Area\n05:26:17 Error Fix\n05:26:48 Styling All invalid input fields Validation Error\n05:27:58 Form Submission\n05:30:44 Disable Submit Button\n05:32:50 Section End\n05:33:17 Section Intro Reactive Forms\n05:33:53 Reactive Form Setup\n05:36:47 Creating Reactive Form Controls Programmatically\n05:42:42 Reactive Form Basic Validations\n05:44:51 Reactive Form Adding Multiple Validations\n\n05:57:04 Reactive Form Submit and Getting Form Values\n06:00:47 Nested Form Groups\n06:08:30 Reactive Form Array\n06:18:53 Reactive Form Builder\n06:26:26 Adding Custom Validations I\n\n06:40:59 Section End\n06:41:52 Section Intro - Angular Routing & Navigation\n06:42:29 What is Angular Routing & Navigation\n06:44:09 How to implement Angular Routing & Navigation\n\n06:52:42 Angular Router Outlet\n06:55:21 Angular Router Link\n06:57:00 Angular Base URL\n07:00:10 Angular Base Router\n07:02:08 Router Vs Href\n07:06:07 Angular RouterLinkActive\n07:08:39 Router Parameter Variables\n07:14:36 Get Router Parameters\n07:19:52 What is Observable\n07:23:54 Observable Subscribe\n07:25:45 Observable Next\n07:28:05 RXJS Observable Vs Functions\n07:30:31 Synchronous Vs Asynchronous Programming\n07:34:10 Observable Subscribe & Unsubscribe\n07:36:49 Multiple Router Parameters\n07:40:02 Query Parameters\n07:46:22 Separate Module for Angular Routing\n07:52:38 Navigate Programmatically\n07:56:28 Wild Card Routers\n08:00:07 Section End\n\n#angular #angular_developer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGLdH5ORX-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGLdH5ORX-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGLdH5ORX-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CGLdH5ORX-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CGLdH5ORX-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OctAcademy",
+        "tags": [
+          "angular full course",
+          "angular tutorial",
+          "angular tutorial for beginners",
+          "angular course",
+          "learn angular",
+          "angular crash course",
+          "angular for beginners",
+          "angular web development tutorial",
+          "angular training for beginners",
+          "angular fundamentals tutorial",
+          "angular tutorial for beginners 2022",
+          "angular tutorial freecodecamp",
+          "angular course 2022",
+          "angular course full"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular Full Course - Complete Zero to Hero Angular full Tutorial",
+          "description": "5 Angular Applications from Scratch | 10 Hours -  https://youtu.be/EuJsvyFz2kA\nAngular Real-World Client Project from Scratch 120+ Hours- https://youtu.be/yyd2uPM_5CE\nAngular Full Course - Complete Zero to Hero Angular full Tutorial- 90% off join now - https://bit.ly/90offangulafullcourse\nSource Code - https://bit.ly/47luSkP\nAngular Data Table - https://youtu.be/5c_678HRutQ\n\nwe learn about Angular A to z from scratch, so this is an Angular Full course where you can learn Angular Javascript framework top to bottom.\n\nJavascript Full Course -  https://youtu.be/6rhmk9pEN0s\nPart II Angular Full Course - https://youtu.be/6zv1PTuqIIc (Learn to build a Full Angular App)\nAngular 15 With @angular/fire 7 (Full CRUD) - https://youtu.be/HXSqKW4JCr4\nTailwind CSS 3 Course 2023 - https://youtu.be/dqz1hb40_Q4\n\n00:00:00 Course Introduction\n00:01:42 Angular & Angular CLI\n00:02:12 What is Angular?\n00:07:21 What is Single Page Application?\n00:09:27 What is Angular CLI?\n00:10:34 Angular CLI Setup\n00:12:30 First Angular App \n00:15:21 Angular File Structure Part I\n00:20:07 Angular File Structure Part II\n00:21:46 Angular File Structure Part III\n00:24:57 End Section Angular & Angular CLI \n00:25:33 Intro Angular Components\n00:26:06 What is Angular Component\n00:31:27 Create an Angular Component\n00:40:51 How Loads Components Inside the Browser\n00:44:24 Templates & Styles Component Properties\n00:49:42 Better Approach for Templates & Styles\n00:55:17 Generate Angular Components using Angular CLI\n01:00:06 NgOnInit() Lifecycle Hook\n01:02:11 Data Binding\n01:05:43 Sharing Data Between Components\n01:07:55 Parent Child Relationship\n01:11:04 @Input Decorator\n01:15:27 Task\n01:16:51 Solution\n01:21:17 @ViewChild Decorator\n01:29:11 @Output & Event Emitter\n01:37:47 End Section Component\n01:38:43 Section Intro Display Data & Event Handling\n01:39:06 String Interpolation\n01:43:53 Property Binding\n01:47:30 Class Binding\n01:50:17 Style Binding\n01:55:49 Event Binding\n02:00:46 Event Filtering\n02:07:15 Template Variable\n02:10:25 Two-Way Data Binding\n02:14:54 One-Way Vs Two-Way Data Binding\n02:21:19 Task\n02:23:37 Solution I\n02:29:10 Solution II\n02:37:01 End Section Data Binding\n02:37:53 Section Intro Directives\n02:38:32 What is Angular Directive?\n02:40:44 NgFor Directive\n02:47:22 Fetch Object Array\n02:53:03 Angular Change Detection\n02:58:18 Usage of Array Index\n03:01:11 NgIf Directive\n03:06:06 NgTemplate Directive\n03:10:29 NgSwitchCase Directive\n03:17:40 NgStyle Directive\n03:22:11 NgClass Directive\n03:25:26 Structural Directive VS Attribute Directives\n03:29:40 Task\n03:31:11 Solution I\n03:43:56 Section Intro Pipes\n03:44:21 What is Angular Pipes & types of Pipes\n03:45:30 Uppercase Lowercase Pipes\n03:47:45 Number Pipes\n03:51:40 Currency Pipes\n03:55:22 Date Pipes\n03:57:35 JSON Pipe\n03:59:21 Percent Pipe\n04:00:37 Slice Pipe\n04:02:51 Custom Pipe I\n04:11:03 Create Custom Pipe Using Angular CLI\n04:13:08 Custom Pipes With Arguments\n04:17:13 Section Intro - Angular Services\n04:17:46 What is Angular Service\n04:20:13 Create Angular Service Manual\n04:22:25 Dependency Injection\n04:28:42 DI Providers and Injectable Decorator\n04:35:55 Generate Angular Service Using Angular CLI\n04:37:46 Usage of Angular Service\n04:41:29 Angular Interface\n04:49:27 Section Intro - Template Driven Forms\n04:49:59 Angular Forms Types\n04:51:50 Creating Bootstrap Forms\n04:56:53 NgForm Directive\n05:01:43 NgForm & Form Group Class\n05:05:27 NgModel & FormControl Class\n05:09:45 Form Validation\n05:16:47 Styling Invalid Inputs\n05:19:53 Form Validation Types\n05:22:22 Validating Email Input Field\n05:25:18 Validating Text Area\n05:26:17 Error Fix\n05:26:48 Styling All invalid input fields Validation Error\n05:27:58 Form Submission\n05:30:44 Disable Submit Button\n05:32:50 Section End\n05:33:17 Section Intro Reactive Forms\n05:33:53 Reactive Form Setup\n05:36:47 Creating Reactive Form Controls Programmatically\n05:42:42 Reactive Form Basic Validations\n05:44:51 Reactive Form Adding Multiple Validations\n\n05:57:04 Reactive Form Submit and Getting Form Values\n06:00:47 Nested Form Groups\n06:08:30 Reactive Form Array\n06:18:53 Reactive Form Builder\n06:26:26 Adding Custom Validations I\n\n06:40:59 Section End\n06:41:52 Section Intro - Angular Routing & Navigation\n06:42:29 What is Angular Routing & Navigation\n06:44:09 How to implement Angular Routing & Navigation\n\n06:52:42 Angular Router Outlet\n06:55:21 Angular Router Link\n06:57:00 Angular Base URL\n07:00:10 Angular Base Router\n07:02:08 Router Vs Href\n07:06:07 Angular RouterLinkActive\n07:08:39 Router Parameter Variables\n07:14:36 Get Router Parameters\n07:19:52 What is Observable\n07:23:54 Observable Subscribe\n07:25:45 Observable Next\n07:28:05 RXJS Observable Vs Functions\n07:30:31 Synchronous Vs Asynchronous Programming\n07:34:10 Observable Subscribe & Unsubscribe\n07:36:49 Multiple Router Parameters\n07:40:02 Query Parameters\n07:46:22 Separate Module for Angular Routing\n07:52:38 Navigate Programmatically\n07:56:28 Wild Card Routers\n08:00:07 Section End\n\n#angular #angular_developer"
+        }
+      },
+      "statistics": {
+        "viewCount": "385829",
+        "likeCount": "7369",
+        "favoriteCount": "0",
+        "commentCount": "399"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TUqKOGGzgDs8bL8Q_XaxID56voE",
+      "id": "d0daPe9q35w",
+      "snippet": {
+        "publishedAt": "2023-11-08T15:17:08Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "Angular's Renaissance",
+        "description": "The Angular Renaissance continues!\nAngular 17 adds many exciting new features to modernize the Angular framework. It adds a new template control flow syntax, deferrable views, easier SSR and much more!\n\n🖥️ Official Website & Courses\nhttps://academind.com/courses/\n\n📝 Summary Blog Post & Official Announcement Post\nhttps://academind.com/tutorials/angular-17-the-renaissance-continues\nhttps://blog.angular.io/introducing-angular-v17-4d7033312e4b\n\n🎥 Angular - The Complete Guide course\nhttps://acad.link/angular\n\n👋 Social Media\nhttps://twitter.com/maxedapps\nhttps://twitter.com/academind_real\nhttps://www.instagram.com/academind_real/\nhttps://www.facebook.com/academindchannel/\n\n💬 Academind Community on Discord\nhttps://discord.gg/gxvEWGU\n----------\n\n• Go to https://www.academind.com and subscribe to our newsletter to stay updated and to get exclusive content & discounts\n• Follow @maxedapps and @academind_real on Twitter\n• Follow @academind_real on Instagram: https://www.instagram.com/academind_real\n• Join our Facebook community on https://www.facebook.com/academindchannel/\n\nSee you in the videos!\n\n----------\n\nAcademind is your source for online education in the areas of web development, frontend web development, backend web development, programming, coding and data science! No matter if you are looking for a tutorial, a course, a crash course, an introduction, an online tutorial or any related video, we try our best to offer you the content you are looking for. Our topics include Angular, React, Vue, Html, CSS, JavaScript, TypeScript, Redux, Nuxt.js, RxJs, Bootstrap, Laravel, Node.js, Progressive Web Apps (PWA), Ionic, React Native, Regular Expressions (RegEx), Stencil, Power BI, Amazon Web Services (AWS), Firebase or other topics, make sure to have a look at this channel or at academind.com to find the learning resource of your choice!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d0daPe9q35w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d0daPe9q35w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d0daPe9q35w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d0daPe9q35w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d0daPe9q35w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Academind",
+        "tags": [
+          "angular",
+          "angular 17",
+          "angular if",
+          "angular for",
+          "angular defer",
+          "deferrable views",
+          "angular 17 whats new",
+          "maximilian schwarzmueller",
+          "maximilian schwarzmuller",
+          "maximilian schwarzmüller",
+          "angular course"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular's Renaissance",
+          "description": "The Angular Renaissance continues!\nAngular 17 adds many exciting new features to modernize the Angular framework. It adds a new template control flow syntax, deferrable views, easier SSR and much more!\n\n🖥️ Official Website & Courses\nhttps://academind.com/courses/\n\n📝 Summary Blog Post & Official Announcement Post\nhttps://academind.com/tutorials/angular-17-the-renaissance-continues\nhttps://blog.angular.io/introducing-angular-v17-4d7033312e4b\n\n🎥 Angular - The Complete Guide course\nhttps://acad.link/angular\n\n👋 Social Media\nhttps://twitter.com/maxedapps\nhttps://twitter.com/academind_real\nhttps://www.instagram.com/academind_real/\nhttps://www.facebook.com/academindchannel/\n\n💬 Academind Community on Discord\nhttps://discord.gg/gxvEWGU\n----------\n\n• Go to https://www.academind.com and subscribe to our newsletter to stay updated and to get exclusive content & discounts\n• Follow @maxedapps and @academind_real on Twitter\n• Follow @academind_real on Instagram: https://www.instagram.com/academind_real\n• Join our Facebook community on https://www.facebook.com/academindchannel/\n\nSee you in the videos!\n\n----------\n\nAcademind is your source for online education in the areas of web development, frontend web development, backend web development, programming, coding and data science! No matter if you are looking for a tutorial, a course, a crash course, an introduction, an online tutorial or any related video, we try our best to offer you the content you are looking for. Our topics include Angular, React, Vue, Html, CSS, JavaScript, TypeScript, Redux, Nuxt.js, RxJs, Bootstrap, Laravel, Node.js, Progressive Web Apps (PWA), Ionic, React Native, Regular Expressions (RegEx), Stencil, Power BI, Amazon Web Services (AWS), Firebase or other topics, make sure to have a look at this channel or at academind.com to find the learning resource of your choice!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "107915",
+        "likeCount": "3467",
+        "favoriteCount": "0",
+        "commentCount": "263"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vZLP5Eeny2okZCPEdxdXET7HqJs",
+      "id": "Wq6GpTZ7AX0",
+      "snippet": {
+        "publishedAt": "2023-11-06T19:08:18Z",
+        "channelId": "UCbn1OgGei-DV7aSRo_HaAiw",
+        "title": "Special Angular Event",
+        "description": "Learn about the latest and greatest from Angular in this very special event.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wq6GpTZ7AX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wq6GpTZ7AX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wq6GpTZ7AX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wq6GpTZ7AX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wq6GpTZ7AX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angular",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Special Angular Event",
+          "description": "Learn about the latest and greatest from Angular in this very special event."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "118628",
+        "likeCount": "4105",
+        "favoriteCount": "0",
+        "commentCount": "158"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZsBiYCB8fGKM4ll7OrTm0ilwBHU",
+      "id": "nQ2A30cD3Q8",
+      "snippet": {
+        "publishedAt": "2023-04-12T17:18:25Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Angular is back with a vengeance",
+        "description": "Angular is adding a new feature called signals that will give it a reactive primitive similar to Vue.js and Solid. Learn how it compares to other popular JavaScript frameworks like React.js and Svelte. \n\n#javascript #programming #TheCodeReport\n\n💬 Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n🔗 Resources\n\nAngular Signals Demo https://angular-signals.netlify.app\nRFC https://github.com/angular/angular/discussions/49685\nIn Depth Change Detection https://indepth.dev/posts/1510/rendering-cycle-in-angular-applications-browser-angular-and-zone-js-interaction\nAngular in 100 Seconds https://youtu.be/Ata9cSC2WpM\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n\n- Angular Signals tutorial\n- Is Angular dead?\n- History of JavaScript frameworks \n- Cool new JavaScript features\n- Will Angular signals replace RxJS?\n- Reactive programming on the web",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQ2A30cD3Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQ2A30cD3Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQ2A30cD3Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQ2A30cD3Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nQ2A30cD3Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fireship",
+        "tags": [
+          "webdev",
+          "app development",
+          "lesson",
+          "tutorial"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Angular is back with a vengeance",
+          "description": "Angular is adding a new feature called signals that will give it a reactive primitive similar to Vue.js and Solid. Learn how it compares to other popular JavaScript frameworks like React.js and Svelte. \n\n#javascript #programming #TheCodeReport\n\n💬 Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n🔗 Resources\n\nAngular Signals Demo https://angular-signals.netlify.app\nRFC https://github.com/angular/angular/discussions/49685\nIn Depth Change Detection https://indepth.dev/posts/1510/rendering-cycle-in-angular-applications-browser-angular-and-zone-js-interaction\nAngular in 100 Seconds https://youtu.be/Ata9cSC2WpM\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n\n- Angular Signals tutorial\n- Is Angular dead?\n- History of JavaScript frameworks \n- Cool new JavaScript features\n- Will Angular signals replace RxJS?\n- Reactive programming on the web"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "473083",
+        "likeCount": "23740",
+        "favoriteCount": "0",
+        "commentCount": "1719"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XH1rcIcxE0QsmcRLSyFiA3mO28k",
+      "id": "a6E5pzst2YE",
+      "snippet": {
+        "publishedAt": "2022-10-06T15:00:00Z",
+        "channelId": "UCt7T2EvYBqvlxNU3fbE4Y7g",
+        "title": "What is Angular? | Angular Explained in 2 Minutes For BEGINNERS.",
+        "description": "What is Angular? What is Angular used for? Should you bother learning this JavaScript Framework?! We'll get you caught up in under 2 minutes.\n\nAngular is one of the most powerful frameworks on the planet. From its extensive packages to its typescript-based format, it's hard to argue with how well-rounded this framework is 😎\n\n🏆 Angular vs. React vs. Vue - who wins?! https://zerotomastery.io/blog/tech-trends-showdown-react-vs-angular-vs-vue\n\n⚡️ Full Angular Course: https://zerotomastery.io/courses/learn-angular/\n5️⃣ Top 5 reasons to learn Angular: https://zerotomastery.io/blog/why-you-should-learn-angular\n👍 Subscribe for free tutorials & exclusive content: https://links.zerotomastery.io/youtube\n\n==========\n\n💥 Who is the ZTM Angular course for?\n\n◾ Developers that want a step-by-step guide to learn and master Angular from scratch all the way to being able to get hired at a top company\n◾ Students who want to go beyond all of the \"beginner\" Angular tutorials out there\n◾ Programmers who want to learn one of the most in-demand skills of a web developer\n◾ Developers that want to be in the top 10% of Angular Developers\n◾ Students who want to gain experience working on a large, scalable application\n◾ Bootcamp or online tutorial graduates that want to go beyond the basics\n◾ Students who want to learn from a Senior Developer who has real-world industry experience, not just another online instructor that teaches off of documentation\n\n==========\n\n💥 Why take the ZTM Angular course?\n\nWe guarantee you that this is the most comprehensive and up-to-date Angular course that you can find. You will learn Angular from scratch, build your own professional Angular apps and be able to get hired as an Angular developer in 2023!\n\nThis project-based course will introduce you to all of the modern toolchain of an Angular developer in 2023.\n\nAlong the way, you will build a massive full-stack video sharing application for gamers Angular, TypeScript, WebAssembly, Rust, RxJS, TailwindCSS, Firebase, and much more.\n\nThis is a large-scale, professional Angular app that you'll be able to add to your portfolio and impress prospective employers with.\n\nYou also won't be learning alone. By enrolling today, you’ll also get to join our exclusive live online community classroom to learn alongside thousands of students, alumni, mentors, TAs and Instructors 👋\n\n==========\n\nGraduates of Zero To Mastery are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, Shopify + other top tech companies. Many are also working as top-rated Freelancers getting paid $1,000s while working remotely around the world.\n\n🎓 Here are just a few of them: https://zerotomastery.io/testimonials\n\nThis could be you 👆\n\n==========\n\nStart learning Angular now 👉 https://zerotomastery.io/courses/learn-angular/\n\n#zerotomastery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6E5pzst2YE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6E5pzst2YE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6E5pzst2YE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6E5pzst2YE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6E5pzst2YE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zero To Mastery",
+        "tags": [
+          "angular explained",
+          "what is angularjs",
+          "angular explained in 100 seconds",
+          "angular in 100 seconds",
+          "what is angular",
+          "angular tutorial",
+          "learn angular for beginners",
+          "angular tutorial for begginers",
+          "angular",
+          "why learn angular",
+          "what can you do with angular",
+          "what is angularjs used for",
+          "javascript frameworks explained",
+          "tech explained",
+          "learn about javascript frameworks",
+          "javascript frameworks",
+          "zero to mastery",
+          "learn to code",
+          "learn angular 2023",
+          "angular explained in 2 minutes"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "What is Angular? | Angular Explained in 2 Minutes For BEGINNERS.",
+          "description": "What is Angular? What is Angular used for? Should you bother learning this JavaScript Framework?! We'll get you caught up in under 2 minutes.\n\nAngular is one of the most powerful frameworks on the planet. From its extensive packages to its typescript-based format, it's hard to argue with how well-rounded this framework is 😎\n\n🏆 Angular vs. React vs. Vue - who wins?! https://zerotomastery.io/blog/tech-trends-showdown-react-vs-angular-vs-vue\n\n⚡️ Full Angular Course: https://zerotomastery.io/courses/learn-angular/\n5️⃣ Top 5 reasons to learn Angular: https://zerotomastery.io/blog/why-you-should-learn-angular\n👍 Subscribe for free tutorials & exclusive content: https://links.zerotomastery.io/youtube\n\n==========\n\n💥 Who is the ZTM Angular course for?\n\n◾ Developers that want a step-by-step guide to learn and master Angular from scratch all the way to being able to get hired at a top company\n◾ Students who want to go beyond all of the \"beginner\" Angular tutorials out there\n◾ Programmers who want to learn one of the most in-demand skills of a web developer\n◾ Developers that want to be in the top 10% of Angular Developers\n◾ Students who want to gain experience working on a large, scalable application\n◾ Bootcamp or online tutorial graduates that want to go beyond the basics\n◾ Students who want to learn from a Senior Developer who has real-world industry experience, not just another online instructor that teaches off of documentation\n\n==========\n\n💥 Why take the ZTM Angular course?\n\nWe guarantee you that this is the most comprehensive and up-to-date Angular course that you can find. You will learn Angular from scratch, build your own professional Angular apps and be able to get hired as an Angular developer in 2023!\n\nThis project-based course will introduce you to all of the modern toolchain of an Angular developer in 2023.\n\nAlong the way, you will build a massive full-stack video sharing application for gamers Angular, TypeScript, WebAssembly, Rust, RxJS, TailwindCSS, Firebase, and much more.\n\nThis is a large-scale, professional Angular app that you'll be able to add to your portfolio and impress prospective employers with.\n\nYou also won't be learning alone. By enrolling today, you’ll also get to join our exclusive live online community classroom to learn alongside thousands of students, alumni, mentors, TAs and Instructors 👋\n\n==========\n\nGraduates of Zero To Mastery are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, Shopify + other top tech companies. Many are also working as top-rated Freelancers getting paid $1,000s while working remotely around the world.\n\n🎓 Here are just a few of them: https://zerotomastery.io/testimonials\n\nThis could be you 👆\n\n==========\n\nStart learning Angular now 👉 https://zerotomastery.io/courses/learn-angular/\n\n#zerotomastery"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "15179",
+        "likeCount": "232",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CbDq7cFRJt6LKzDT3jOt2qzmAgs",
+      "id": "moFvceETdwo",
+      "snippet": {
+        "publishedAt": "2023-11-14T05:00:23Z",
+        "channelId": "UC7vgoI5o3Eik81K6nwd1_eQ",
+        "title": "Новый быстрый красивый Angular 17",
+        "description": "Вышла новая 17-я версия javascript-фреймворка Angular. Я расскажу вам в этом видео, что там нового и интересного для программистов и пользователей.\n\nТаймкоды:\n00:00 Вступление\n00:35 Новый брендинг Angular\n00:57 Ключевые изменения\n01:14 SSR (server-side rendering) и Hydration\n03:13 Скорость\n05:12 Заключение\n\nНЕТ ВОЙНЕ!\n\nВыразить благодарность\nhttps://ko-fi.com/larchanka\nhttps://boosty.to/larchanka\nhttps://yoomoney.ru/to/410011886858328\nBTC: 127J5x79L9bb7T4jiYJ2U7jHNDLXEx4kT3\nUSDT (TRC20): TWRQit8o1JJGWjAph3DZFysygUxSwqiq9Q\nTON: UQBDiFGDTLpp1zWLefv0LnH9TbEeUIcPSoO5uDNwhzktKP33\n\nКак я стал программистом\nhttps://www.youtube.com/watch?v=cDuXZAA-_vI\n\nКак я переехал в Европу\nhttps://www.youtube.com/watch?v=hpZHUtapEzI\n\nСтрим: Карьера программиста\nhttps://www.youtube.com/watch?v=PmATiiywqdE\n\nVPN, который я использую\nhttps://surfshark.club/friend/fUXc3NQd\n\n➡️  Сайт: https://i.mobila.name/xT\n➡️  Instagram: https://i.mobila.name/yp\n➡️  Twitter: https://i.mobila.name/Ua\n➡️  Telegram: https://i.mobila.name/b7d\n\n👉🏻 Больше влогов здесь:\n#larchankavlog #larchanka\n\n👉🏻 Ежедневные влоги:\n#larchankadaily\n\n👉🏻 Чем я снимаю:\n➡️ iPhone 14 Pro https://ya.cc/m/UcEcRy0\n➡️ Камера: Canon EOS 200D https://ya.cc/Ps7fY\n➡️ Широкоугольный объектив: Canon EF-S 10-18 https://ya.cc/Ps7eF\n➡️ Еще одна камера: DJi Osmo Action https://ya.cc/Ps7gH\n➡️ Еще одна камера: Sony DSC-WX500\n➡️ И еще одна: SJCam SJ6 Legend https://ya.cc/Ps7hJ\n➡️ Микрофон: Rode Video \n➡️ Штатив: Joby Gorillapod https://ya.cc/Ps7iP\n\nМузыка:\nSlam Dunk - FLYIN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/moFvceETdwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/moFvceETdwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/moFvceETdwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/moFvceETdwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/moFvceETdwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Миша Ларченко",
+        "tags": [
+          "angular",
+          "javascript",
+          "программирование",
+          "js",
+          "react",
+          "frontend",
+          "junior frontend разработчик",
+          "фронтенд",
+          "it",
+          "junior frontend",
+          "ангуляр",
+          "владилен",
+          "программист",
+          "задачи к собеседованию javascript",
+          "владилен минин",
+          "typescript",
+          "angularjs",
+          "angular js",
+          "собеседование frontend",
+          "frontend разработчик",
+          "разработка",
+          "front-end",
+          "css",
+          "фронтенд разработчик",
+          "react junior собеседование",
+          "react собеседование",
+          "вопросы к собеседованию javascript",
+          "уроки angular",
+          "angular уроки",
+          "разработчик",
+          "angular 17",
+          "что нового в angular 17"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Новый быстрый красивый Angular 17",
+          "description": "Вышла новая 17-я версия javascript-фреймворка Angular. Я расскажу вам в этом видео, что там нового и интересного для программистов и пользователей.\n\nТаймкоды:\n00:00 Вступление\n00:35 Новый брендинг Angular\n00:57 Ключевые изменения\n01:14 SSR (server-side rendering) и Hydration\n03:13 Скорость\n05:12 Заключение\n\nНЕТ ВОЙНЕ!\n\nВыразить благодарность\nhttps://ko-fi.com/larchanka\nhttps://boosty.to/larchanka\nhttps://yoomoney.ru/to/410011886858328\nBTC: 127J5x79L9bb7T4jiYJ2U7jHNDLXEx4kT3\nUSDT (TRC20): TWRQit8o1JJGWjAph3DZFysygUxSwqiq9Q\nTON: UQBDiFGDTLpp1zWLefv0LnH9TbEeUIcPSoO5uDNwhzktKP33\n\nКак я стал программистом\nhttps://www.youtube.com/watch?v=cDuXZAA-_vI\n\nКак я переехал в Европу\nhttps://www.youtube.com/watch?v=hpZHUtapEzI\n\nСтрим: Карьера программиста\nhttps://www.youtube.com/watch?v=PmATiiywqdE\n\nVPN, который я использую\nhttps://surfshark.club/friend/fUXc3NQd\n\n➡️  Сайт: https://i.mobila.name/xT\n➡️  Instagram: https://i.mobila.name/yp\n➡️  Twitter: https://i.mobila.name/Ua\n➡️  Telegram: https://i.mobila.name/b7d\n\n👉🏻 Больше влогов здесь:\n#larchankavlog #larchanka\n\n👉🏻 Ежедневные влоги:\n#larchankadaily\n\n👉🏻 Чем я снимаю:\n➡️ iPhone 14 Pro https://ya.cc/m/UcEcRy0\n➡️ Камера: Canon EOS 200D https://ya.cc/Ps7fY\n➡️ Широкоугольный объектив: Canon EF-S 10-18 https://ya.cc/Ps7eF\n➡️ Еще одна камера: DJi Osmo Action https://ya.cc/Ps7gH\n➡️ Еще одна камера: Sony DSC-WX500\n➡️ И еще одна: SJCam SJ6 Legend https://ya.cc/Ps7hJ\n➡️ Микрофон: Rode Video \n➡️ Штатив: Joby Gorillapod https://ya.cc/Ps7iP\n\nМузыка:\nSlam Dunk - FLYIN"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "statistics": {
+        "viewCount": "11257",
+        "likeCount": "608",
+        "favoriteCount": "0",
+        "commentCount": "69"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1ETYAm7mrWzz4iMknf23wjlI2Gw",
+      "id": "OmkmeBOAg44",
+      "snippet": {
+        "publishedAt": "2023-07-17T02:31:53Z",
+        "channelId": "UCpKvMmsF6QrkVr_zWaLGK-A",
+        "title": "APRENDA ANGULAR DO ZERO - primeiro passos",
+        "description": "Nessa live vamos construir um Projeto Frontend usando Angular e Typescript para entender os conceitos base do Angular e como esse framework tão poderoso funciona.\n\n👉 Notion com conteúdo da live\nhttps://metal-flea-041.notion.site/LIVE-Criando-Projeto-Angular-c83eefb9f4834a3295399b6d6d7d332b?pvs=4\n\n👉 Me siga no instagram! \nhttps://www.instagram.com/kipper.dev/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmkmeBOAg44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmkmeBOAg44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmkmeBOAg44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmkmeBOAg44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmkmeBOAg44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernanda Kipper | Dev",
+        "tags": [
+          "programar",
+          "desenvolvedor",
+          "programação",
+          "dev",
+          "frontend",
+          "desenvolvimento frontend",
+          "angular js",
+          "angular",
+          "aprender angular"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "APRENDA ANGULAR DO ZERO - primeiro passos",
+          "description": "Nessa live vamos construir um Projeto Frontend usando Angular e Typescript para entender os conceitos base do Angular e como esse framework tão poderoso funciona.\n\n👉 Notion com conteúdo da live\nhttps://metal-flea-041.notion.site/LIVE-Criando-Projeto-Angular-c83eefb9f4834a3295399b6d6d7d332b?pvs=4\n\n👉 Me siga no instagram! \nhttps://www.instagram.com/kipper.dev/"
+        }
+      },
+      "statistics": {
+        "viewCount": "58927",
+        "likeCount": "3574",
+        "favoriteCount": "0",
+        "commentCount": "118"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BeMaStkdLI90QB52FVIXPMvkZ5g",
+      "id": "DOffmVeBk0o",
+      "snippet": {
+        "publishedAt": "2023-11-09T13:49:09Z",
+        "channelId": "UCSj1Igu3ejxqcQISNEmx8VQ",
+        "title": "Angular 17 - New Build-In Control Flow Overview 🚀",
+        "description": "Level up your Angular skills with my Advanced Courses 🚀\nhttps://bit.ly/discounted-course-bundle\n\nThe latest Angular 17 was released a few hours ago and it is a great time to explore new features it brings. In this video, we will look at the completely brand-new Control Flow that is supposed to replace the old way that relies on structural directives like ngIf, ngSwitch & ngFor. Besides the syntax changes, it also improves performance, making your apps slightly more lightweight and faster.\n\nAnd this is only one of many other cool features that are coming with #angular17 and in the next videos, I will cover some of the other ones. Stay tuned and don't forget to share the video if you find it useful :)\n\nSource code from the video:\nhttps://github.com/DMezhenskyi/angular-control-flow\n\n🕒  Time Codes:\n00:00:00 - Intro;\n00:00:46 - Demo Project Overview;\n00:01:53 - @if block in Action;\n00:02:52 - @switch/@case block in Action;\n00:07:20 - @for/@empty block in Action;\n00:12:55 - Outro;\n\n💡 Short Frontend Snacks (Tips) every week here: \nTwitter - https://twitter.com/DecodedFrontend\nInstagram - https://www.instagram.com/decodedfrontend\nLinkedIn - https://www.linkedin.com/in/dmezhenskyi\n\n#angular #ng #typescript #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DOffmVeBk0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DOffmVeBk0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOffmVeBk0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DOffmVeBk0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DOffmVeBk0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decoded Frontend",
+        "tags": [
+          "angular 17",
+          "angular 17 control flow",
+          "angular 17 new features",
+          "angular control flow",
+          "angular tutorial 2023",
+          "whats new in angular 17",
+          "Angular whats new",
+          "angular tutorial",
+          "angular 17 tutorial",
+          "coding",
+          "ui",
+          "rxjs"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Angular 17 - New Build-In Control Flow Overview 🚀",
+          "description": "Level up your Angular skills with my Advanced Courses 🚀\nhttps://bit.ly/discounted-course-bundle\n\nThe latest Angular 17 was released a few hours ago and it is a great time to explore new features it brings. In this video, we will look at the completely brand-new Control Flow that is supposed to replace the old way that relies on structural directives like ngIf, ngSwitch & ngFor. Besides the syntax changes, it also improves performance, making your apps slightly more lightweight and faster.\n\nAnd this is only one of many other cool features that are coming with #angular17 and in the next videos, I will cover some of the other ones. Stay tuned and don't forget to share the video if you find it useful :)\n\nSource code from the video:\nhttps://github.com/DMezhenskyi/angular-control-flow\n\n🕒  Time Codes:\n00:00:00 - Intro;\n00:00:46 - Demo Project Overview;\n00:01:53 - @if block in Action;\n00:02:52 - @switch/@case block in Action;\n00:07:20 - @for/@empty block in Action;\n00:12:55 - Outro;\n\n💡 Short Frontend Snacks (Tips) every week here: \nTwitter - https://twitter.com/DecodedFrontend\nInstagram - https://www.instagram.com/decodedfrontend\nLinkedIn - https://www.linkedin.com/in/dmezhenskyi\n\n#angular #ng #typescript #webdevelopment"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "21365",
+        "likeCount": "1363",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ubGLBoNFEmwXV_VH3Aro32U9Dds",
+      "id": "AAu8bjj6-UI",
+      "snippet": {
+        "publishedAt": "2021-10-20T15:11:50Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Angular Tutorial for Beginners - Web Framework with Typescript Course",
+        "description": "Learn the basics of Angular in this full course for beginners. Angular is a TypeScript-based free and open-source web application framework created by Google.\n\n✏️ Slobodan Gajic created this course. Check out his channel: https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw\n\n⭐️ Course Contents ⭐️\n⌨️ (0:00:00) Introduction\n⌨️ (0:05:26) Components\n⌨️ (0:08:56) Lifecycle hooks\n⌨️ (0:11:21) Text interpolation\n⌨️ (0:13:31) Components Communication\n⌨️ (0:19:01) Component Styles\n⌨️ (0:23:36) Ng-Content\n⌨️ (0:26:31) Template Statements\n⌨️ (0:28:49) Pipes\n⌨️ (0:32:22) Property Binding\n⌨️ (0:34:56) Attribute, Class & Style\n⌨️ (0:39:16) Event Binding\n⌨️ (0:41:36) Two-way Binding\n⌨️ (0:47:57) Directives\n⌨️ (0:52:52) Attribute directives\n⌨️ (0:56:36) Structural directives\n⌨️ (1:01:15) Dependency Injection\n⌨️ (1:04:14) Routing\n⌨️ (1:13:19) Template-Driven Form\n⌨️ (1:20:26) Reactive Forms\n⌨️ (1:26:04) Form Validation\n⌨️ (1:30:57) HTTP Client\n\n⭐️ Video Resources ⭐️\n🔗 Learn more about Pips: https://angular.io/guide/pipes\n🔗 Cocktail API endpoint: www.thecocktaildb.com/api/json/v1/1/search.php?f=a\n🔗 LoR API endpoint: https://the-one-api.dev/v2/movie\n🔗 LoR API docs: https://the-one-api.dev/documentation\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 Wong Voon jinq\n👾 hexploitation\n👾 Katia Moran\n👾 BlckPhantom\n👾 Nick Raker\n👾 Otis Morgan\n👾 DeezMaster\n👾 AppWrite\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAu8bjj6-UI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAu8bjj6-UI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAu8bjj6-UI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AAu8bjj6-UI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AAu8bjj6-UI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Angular Tutorial for Beginners - Web Framework with Typescript Course",
+          "description": "Learn the basics of Angular in this full course for beginners. Angular is a TypeScript-based free and open-source web application framework created by Google.\n\n✏️ Slobodan Gajic created this course. Check out his channel: https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw\n\n⭐️ Course Contents ⭐️\n⌨️ (0:00:00) Introduction\n⌨️ (0:05:26) Components\n⌨️ (0:08:56) Lifecycle hooks\n⌨️ (0:11:21) Text interpolation\n⌨️ (0:13:31) Components Communication\n⌨️ (0:19:01) Component Styles\n⌨️ (0:23:36) Ng-Content\n⌨️ (0:26:31) Template Statements\n⌨️ (0:28:49) Pipes\n⌨️ (0:32:22) Property Binding\n⌨️ (0:34:56) Attribute, Class & Style\n⌨️ (0:39:16) Event Binding\n⌨️ (0:41:36) Two-way Binding\n⌨️ (0:47:57) Directives\n⌨️ (0:52:52) Attribute directives\n⌨️ (0:56:36) Structural directives\n⌨️ (1:01:15) Dependency Injection\n⌨️ (1:04:14) Routing\n⌨️ (1:13:19) Template-Driven Form\n⌨️ (1:20:26) Reactive Forms\n⌨️ (1:26:04) Form Validation\n⌨️ (1:30:57) HTTP Client\n\n⭐️ Video Resources ⭐️\n🔗 Learn more about Pips: https://angular.io/guide/pipes\n🔗 Cocktail API endpoint: www.thecocktaildb.com/api/json/v1/1/search.php?f=a\n🔗 LoR API endpoint: https://the-one-api.dev/v2/movie\n🔗 LoR API docs: https://the-one-api.dev/documentation\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 Wong Voon jinq\n👾 hexploitation\n👾 Katia Moran\n👾 BlckPhantom\n👾 Nick Raker\n👾 Otis Morgan\n👾 DeezMaster\n👾 AppWrite\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "254033",
+        "likeCount": "5112",
+        "favoriteCount": "0",
+        "commentCount": "249"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  }
+}
